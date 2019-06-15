@@ -41,6 +41,8 @@ public class YanyuanFragment extends BaseFragment implements View.OnClickListene
     private RadioGroup radioGroup;
     private TextView tv_actor_ruku;
     private TextView tv_actor_huhuan;
+    private TextView tv_add_user;
+    private TextView tv_search_user;
     private TextView tv_actor_shaixuan;
     private MyFragmentAdapter myFragmentAdapter;
     private ArrayList<Fragment> fragmentList;
@@ -62,6 +64,8 @@ public class YanyuanFragment extends BaseFragment implements View.OnClickListene
         radiobutton0 = (RadioButton) view.findViewById(R.id.radiobutton0);
         radiobutton1 = (RadioButton) view.findViewById(R.id.radiobutton1);
         radiobutton2 = (RadioButton) view.findViewById(R.id.radiobutton2);
+        tv_add_user = (TextView) view.findViewById(R.id.tv_add_user);
+        tv_search_user = (TextView) view.findViewById(R.id.tv_search_user);
         tv_actor_ruku = (TextView) view.findViewById(R.id.tv_actor_ruku);
         tv_actor_huhuan = (TextView) view.findViewById(R.id.tv_actor_huhuan);
         tv_actor_shaixuan = (TextView) view.findViewById(R.id.tv_actor_shaixuan);
@@ -83,6 +87,8 @@ public class YanyuanFragment extends BaseFragment implements View.OnClickListene
         tv_actor_ruku.setOnClickListener(this);
         tv_actor_huhuan.setOnClickListener(this);
         tv_actor_shaixuan.setOnClickListener(this);
+        tv_search_user.setOnClickListener(this);
+        tv_add_user.setOnClickListener(this);
         radioGroup.setOnCheckedChangeListener(new OnTabListener());
         myFragmentAdapter = new MyFragmentAdapter(getChildFragmentManager());
         viewPager.setAdapter(myFragmentAdapter);
@@ -138,6 +144,16 @@ public class YanyuanFragment extends BaseFragment implements View.OnClickListene
                 }
                 break;
             case R.id.tv_actor_shaixuan:
+                ActivityAnim.intentActivity(getActivity(), ChangeLabelActivity.class, null);
+                break;
+            case R.id.tv_add_user:
+                Map<String, String> mapAdd = new HashMap<>();
+                mapAdd.put("title", "演员入库");
+                mapAdd.put("flag", "102");
+                mapAdd.put("loadUrl", "https://yingq.cc/index/feedback1");
+                ActivityAnim.intentActivity(getActivity(), WebviewActivity.class, mapAdd);
+                break;
+            case R.id.tv_search_user:
                 ActivityAnim.intentActivity(getActivity(), ChangeLabelActivity.class, null);
                 break;
         }
