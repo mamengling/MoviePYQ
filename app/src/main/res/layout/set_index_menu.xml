@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/x_pop_set_menu_bg"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/device_like"
+        android:layout_width="120dp"
+        android:layout_height="40dp"
+        android:drawableLeft="@mipmap/icon_like_full"
+        android:drawablePadding="5dp"
+        android:gravity="center"
+        android:text="收藏"
+        android:textColor="@color/colorPrimary"
+        android:textSize="@dimen/textsize_8" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/content_view_bg" />
+
+    <TextView
+        android:id="@+id/add_share"
+        android:layout_width="120dp"
+        android:layout_height="40dp"
+        android:drawableLeft="@mipmap/ic_launcher"
+        android:drawablePadding="3dp"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="分享"
+        android:visibility="gone"
+        android:textColor="@color/colorPrimary"
+        android:textSize="@dimen/textsize_8" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/content_view_bg"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/add_jubao"
+        android:layout_width="120dp"
+        android:layout_height="40dp"
+        android:drawableLeft="@mipmap/ic_launcher"
+        android:drawablePadding="3dp"
+        android:gravity="center"
+        android:text="举报"
+        android:textColor="@color/colorPrimary"
+        android:textSize="@dimen/textsize_8" />
+
+</LinearLayout>

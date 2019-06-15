@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/edt_back_white"
+        android:padding="10dp"
+        app:counterEnabled="true"
+        app:counterMaxLength="2000"
+        app:counterOverflowTextAppearance="@style/MyOverflowText"
+        app:errorTextAppearance="@style/MyErrorStyle"
+        app:hintEnabled="false">
+
+        <EditText
+            android:id="@+id/editTextt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:background="@color/white"
+            android:gravity="start"
+            android:hint="请输入工作备注"
+            android:minLines="15"
+            android:padding="5dp"
+            android:textColor="@color/home_name"
+            android:textSize="@dimen/textsize_6"/>
+
+    </android.support.design.widget.TextInputLayout>
+
+
+    <Button
+        android:id="@+id/btn_delete"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/x_button_seleter_2"
+        android:text="删除工作备注"
+        android:textColor="@color/white"
+        android:textSize="@dimen/textsize_7"/>
+</LinearLayout>

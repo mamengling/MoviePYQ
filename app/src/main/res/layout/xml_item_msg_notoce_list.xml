@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/content_view_bg">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/x_item_msg_bg">
+
+        <ImageView
+            android:id="@+id/image_user_logo"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="15dp"
+            android:src="@mipmap/icon_user_default_image"/>
+
+        <TextView
+            android:id="@+id/tv_msg_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/image_user_logo"
+            android:layout_marginRight="15dp"
+            android:layout_toRightOf="@+id/image_user_logo"
+            android:lines="5"
+            android:text="aaaaaaaaaaaaaaaaaaa"
+            android:textColor="@color/home_name"
+            android:textSize="@dimen/textsize_6"/>
+
+        <TextView
+            android:id="@+id/tv_look"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/tv_msg_title"
+            android:layout_marginBottom="15dp"
+            android:layout_marginRight="20dp"
+            android:background="@color/colorAccent"
+            android:padding="5dp"
+            android:text="查看详情"
+            android:textColor="@color/white"
+            android:textSize="@dimen/textsize_5"/>
+    </RelativeLayout>
+</RelativeLayout>

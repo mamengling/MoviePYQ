@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical">
+
+    <TextView
+        style="@style/text_order_title_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="选择地图应用"
+        android:textColor="@color/home_tab_title" />
+
+    <View style="@style/bg_line_h" />
+
+    <TextView
+        android:id="@+id/pic_photo"
+        style="@style/text_order_title_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="@dimen/activity_horizontal_margin"
+        android:text="使用系统自带地图导航"
+        android:textColor="@color/gplus_color_3" />
+
+    <View style="@style/bg_line_h" />
+
+    <TextView
+        android:id="@+id/pic_tuku"
+        style="@style/text_order_title_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="@dimen/activity_horizontal_margin"
+        android:text="使用高德地图导航"
+        android:textColor="@color/gplus_color_3" />
+
+    <View style="@style/bg_line_h" />
+    <TextView
+        android:id="@+id/pic_tuku_b"
+        style="@style/text_order_title_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="@dimen/activity_horizontal_margin"
+        android:text="使用百度地图导航"
+        android:textColor="@color/gplus_color_3" />
+
+    <View style="@style/bg_line_h" />
+    <TextView
+        android:id="@+id/pic_cancel"
+        style="@style/text_order_title_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="@dimen/activity_horizontal_margin"
+        android:text="取消"
+        android:textColor="@color/gplus_color_3" />
+
+</LinearLayout>

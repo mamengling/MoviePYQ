@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp">
+
+
+        <ImageView
+            android:id="@+id/image_view"
+            android:layout_width="match_parent"
+            android:layout_height="160dp"
+            android:layout_margin="10dp"
+            android:background="@color/white"
+            android:scaleType="centerCrop" />
+
+        <TextView
+            android:id="@+id/image_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/image_view"
+            android:layout_below="@+id/image_view"
+            android:text="高科技"
+            android:textColor="@color/home_name"
+            android:textSize="@dimen/textsize_6" />
+
+        <ImageView
+            android:id="@+id/image_view_edt"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="25dp"
+            android:background="@mipmap/mine_albumedit_sel"
+            android:scaleType="centerCrop"
+            android:visibility="gone" />
+
+        <ImageView
+            android:id="@+id/image_view_del"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_alignParentRight="true"
+            android:layout_margin="25dp"
+            android:background="@mipmap/mine_albumdelete"
+            android:scaleType="centerCrop"
+            android:visibility="gone" />
+        <TextView
+            android:id="@+id/image_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@+id/image_view"
+            android:layout_below="@+id/image_view"
+            android:text="1张"
+            android:textColor="@color/home_text_color"
+            android:textSize="@dimen/textsize_4" />
+    </RelativeLayout>
+</LinearLayout>

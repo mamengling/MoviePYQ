@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/content_view_bg">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/x_item_msg_bg">
+
+        <LinearLayout
+            android:id="@+id/line_user"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="15dp"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/image_user_logo"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:src="@mipmap/icon_user_default_image" />
+
+            <TextView
+                android:id="@+id/tv_user_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/image_user_logo"
+                android:layout_below="@+id/image_user_logo"
+                android:layout_marginTop="5dp"
+                android:text="1111"
+                android:textColor="@color/home_name"
+                android:textSize="@dimen/textsize_7" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_ag"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/line_user"
+            android:layout_alignLeft="@+id/tv_msg_title"
+            android:layout_marginTop="5dp"
+            android:text="您已经同意！"
+            android:textColor="@color/home_tab_title"
+            android:textSize="@dimen/textsize_7" />
+
+        <TextView
+            android:id="@+id/tv_msg_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/line_user"
+            android:layout_marginRight="15dp"
+            android:layout_toRightOf="@+id/line_user"
+            android:text="aaaaaaaaaaaaaaaaaaa"
+            android:textColor="@color/home_name"
+            android:textSize="@dimen/textsize_6" />
+
+        <TextView
+            android:id="@+id/tv_look_tongyi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/line_user"
+            android:layout_marginBottom="15dp"
+            android:layout_marginRight="20dp"
+            android:layout_toLeftOf="@+id/tv_look_jujue"
+            android:background="@color/colorAccent"
+            android:paddingBottom="5dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="5dp"
+            android:text="同意"
+            android:textColor="@color/white"
+            android:textSize="@dimen/textsize_5" />
+
+        <TextView
+            android:id="@+id/tv_look_jujue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/line_user"
+            android:layout_marginBottom="15dp"
+            android:layout_marginRight="20dp"
+            android:background="@color/base_button_selector_color_un"
+            android:paddingBottom="5dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="5dp"
+            android:text="拒绝"
+            android:textColor="@color/white"
+            android:textSize="@dimen/textsize_5" />
+
+    </RelativeLayout>
+</RelativeLayout>

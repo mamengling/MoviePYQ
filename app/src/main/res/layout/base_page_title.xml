@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/root_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
+
+    <com.movie.mling.movieapp.utils.widget.TitleBar
+        android:id="@+id/base_fragment_title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <include
+        android:id="@+id/base_fragment_net_error"
+        layout="@layout/common_error_net"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:id="@+id/base_fragment_empty"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="17dp"
+            android:src="@mipmap/ic_launcher" />
+
+        <TextView
+            android:id="@+id/base_fragment_empty_hintTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="暂无信息"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_refresh"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/x_button_seleter_2"
+            android:padding="5dp"
+            android:text="点击刷新"
+            android:visibility="visible"
+            android:textColor="@color/white"
+            android:textSize="@dimen/textsize_5" />
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <include
+            android:id="@+id/base_fragment_loading"
+            layout="@layout/common_loading_pro"
+            android:visibility="gone" />
+
+        <FrameLayout
+            android:id="@+id/base_fragment_content"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        </FrameLayout>
+    </FrameLayout>
+
+</LinearLayout>

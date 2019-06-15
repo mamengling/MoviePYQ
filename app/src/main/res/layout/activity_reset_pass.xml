@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/root_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp">
+
+        <TextView
+            android:id="@+id/tv_pas_text"
+            android:layout_width="wrap_content"
+            android:layout_height="45dp"
+            android:gravity="center_vertical"
+            android:text="旧密码："
+            android:textColor="@color/home_name"
+            android:textSize="@dimen/textsize_7" />
+
+        <EditText
+            android:id="@+id/edt_password"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginLeft="50dp"
+            android:layout_toRightOf="@+id/tv_pas_text"
+            android:background="@color/white"
+            android:gravity="center_vertical"
+            android:hint="请输入旧密码"
+            android:inputType="textPassword"
+            android:textColor="@color/home_name"
+            android:textSize="@dimen/textsize_7" />
+
+
+        <View
+            android:id="@+id/view_line_e"
+            style="@style/bg_line_h"
+            android:layout_below="@+id/tv_pas_text" />
+
+        <TextView
+            android:id="@+id/tv_again_text"
+            android:layout_width="wrap_content"
+            android:layout_height="45dp"
+            android:layout_alignLeft="@+id/tv_china"
+            android:layout_below="@+id/view_line_e"
+            android:gravity="center_vertical"
+            android:text="新密码："
+            android:textColor="@color/home_name"
+            android:textSize="@dimen/textsize_7" />
+
+        <EditText
+            android:id="@+id/edt_password_again"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_below="@+id/view_line_e"
+            android:layout_alignLeft="@+id/edt_password"
+            android:background="@color/white"
+            android:gravity="center_vertical"
+            android:hint="请输入新密码"
+            android:inputType="textPassword"
+            android:textColor="@color/home_name"
+            android:textSize="@dimen/textsize_7" />
+    </RelativeLayout>
+</LinearLayout>

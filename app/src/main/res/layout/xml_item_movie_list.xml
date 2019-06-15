@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="@color/white"
+              android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/image_movie_view"
+            android:layout_width="120dp"
+            android:layout_height="180dp"
+            android:layout_margin="10dp"
+            android:background="@color/colorAccent"
+            android:scaleType="centerCrop"/>
+
+        <TextView
+            android:id="@+id/tv_view_collect"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/image_movie_view"
+            android:layout_marginLeft="10dp"
+            android:background="@color/colorAccent"
+            android:padding="3dp"
+            android:text="已收藏"
+            android:textColor="@color/white"
+            android:textSize="@dimen/textsize_5"
+            android:visibility="gone"/>
+
+        <TextView
+            android:id="@+id/tv_view_type"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/image_movie_view"
+            android:layout_toRightOf="@+id/image_movie_view"
+            android:background="@color/colorAccent"
+            android:padding="3dp"
+            android:text="电视剧"
+            android:textColor="@color/white"
+            android:textSize="@dimen/textsize_5"/>
+
+        <TextView
+            android:id="@+id/tv_movie_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/tv_view_type"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@+id/tv_view_type"
+            android:text="《白发王妃》"
+            android:textColor="@color/home_name"
+            android:textSize="@dimen/textsize_6"/>
+
+
+        <LinearLayout
+            android:id="@+id/line_con"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/tv_view_type"
+            android:layout_below="@+id/tv_view_type"
+            android:orientation="vertical"/>
+    </RelativeLayout>
+</LinearLayout>

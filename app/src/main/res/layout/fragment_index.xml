@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <RadioGroup
+        android:id="@+id/radiogroup_full"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_gravity="center"
+        android:background="@color/colorAccent"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/radiobutton0"
+            style="@style/tab_line_style"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="10dp"
+            android:checked="true"
+            android:text="全部组讯"/>
+
+        <RadioButton
+            android:id="@+id/radiobutton1"
+            style="@style/tab_line_style"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:text="人气组讯"/>
+
+        <RadioButton
+            android:id="@+id/radiobutton2"
+            style="@style/tab_line_style"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="20dp"
+            android:text="跑组记录"/>
+    </RadioGroup>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/colorAccent"/>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewPager"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/white"/>
+</LinearLayout>

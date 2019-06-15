@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rootView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:gravity="center_vertical"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:gravity="center"
+        android:padding="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="20dp"
+            android:text="手机号码："
+            android:textColor="@color/home_name"
+            android:textSize="@dimen/textsize_7" />
+
+        <EditText
+            android:id="@+id/edt_user_phone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:inputType="phone"
+            android:background="@color/white"
+            android:hint="请输入手机号"
+            android:textColor="@color/home_tab_content"
+            android:textSize="@dimen/textsize_7" />
+    </LinearLayout>
+
+    <View
+        style="@style/bg_line_h"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="15dp"
+        android:gravity="center"
+        android:padding="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="20dp"
+            android:text="登录密码："
+            android:textColor="@color/home_name"
+            android:textSize="@dimen/textsize_7" />
+
+        <EditText
+            android:id="@+id/edt_user_password"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/white"
+            android:hint="请输入6-20位密码"
+            android:inputType="textPassword"
+            android:textColor="@color/home_tab_content"
+            android:textSize="@dimen/textsize_7" />
+    </LinearLayout>
+
+    <View
+        style="@style/bg_line_h"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp" />
+
+    <TextView
+        android:id="@+id/tv_find_psw"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginRight="30dp"
+        android:gravity="end|center_vertical"
+        android:text="忘记密码？"
+        android:textColor="@color/colorAccent"
+        android:textSize="@dimen/textsize_7" />
+
+
+    <Button
+        android:id="@+id/btn_login"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/x_button_seleter_2"
+        android:text="登录"
+        android:textColor="@color/white"
+        android:textSize="@dimen/textsize_7" />
+</LinearLayout>

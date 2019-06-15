@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E13319</color>
+    <color name="colorPrimaryDark">#E13319</color>
+    <color name="colorAccent">#E13319</color>
+
+    <color name="white">#FFFFFF</color>
+
+
+    <!-- 文字颜色 -->
+    <color name="home_text_color">#666666</color>
+    <!-- 文字颜色 -->
+    <color name="home_tab_title">#999999</color>
+    <!-- 文字颜色 -->
+    <color name="home_tab_content">#333333</color>
+    <!-- 文字颜色 -->
+    <color name="home_name">#292422</color>
+
+    <color name="work_part_bg">#CE8237</color>
+    <!--透明色-->
+    <color name="transparent">#00000000</color>
+    <color name="transparent6">#33000000</color>
+    <color name="content_view_bg">#f1f1f1</color>
+    <color name="content_view">#D2D2D2</color>
+    <color name="content_view_white">#D9FFFFFF</color>
+    <color name="zx_point_black_gray">#876B6B6B</color>
+    <color name="base_button_selector_color">#E13319</color>
+    <color name="base_button_selector_color_un">#999999</color>
+
+    <integer-array name="gplus_colors">
+        <item>@color/gplus_color_1</item>
+        <item>@color/gplus_color_2</item>
+        <item>@color/gplus_color_3</item>
+        <item>@color/gplus_color_4</item>
+    </integer-array>
+
+    <color name="gplus_color_1">#3e802f</color>
+    <color name="gplus_color_2">#f4b400</color>
+    <color name="gplus_color_3">#427fed</color>
+    <color name="gplus_color_4">#b23424</color>
+</resources>

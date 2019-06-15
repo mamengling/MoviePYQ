@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <com.movie.mling.movieapp.utils.widget.AlignTextView
+        android:id="@+id/tv_ticai"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/tv_view_type"
+        android:layout_below="@+id/tv_view_type"
+        android:paddingBottom="5dp"
+        android:paddingTop="5dp"
+        android:textColor="@color/home_text_color"
+        android:textSize="@dimen/textsize_7"
+        app:textAlign="题        材："/>
+
+
+    <TextView
+        android:id="@+id/tv_ticai_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/tv_view_type"
+        android:layout_alignTop="@+id/tv_ticai"
+        android:layout_below="@+id/tv_view_type"
+        android:layout_toRightOf="@+id/tv_ticai"
+        android:gravity="left"
+        android:paddingBottom="5dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingTop="5dp"
+        android:autoLink="all"
+        android:textIsSelectable="true"
+        android:text="题        材："
+        android:textColor="@color/home_name"
+        android:textSize="@dimen/textsize_7"/>
+</RelativeLayout>

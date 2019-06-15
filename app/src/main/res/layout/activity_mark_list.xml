@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/line_tab"
+        android:layout_width="match_parent"
+        android:layout_height="38dp"
+        android:background="#eeeeee"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <RadioGroup
+            android:id="@+id/radiogroup_full"
+            android:layout_width="wrap_content"
+            android:layout_height="38dp"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="#eeeeee"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/radiobutton0"
+                style="@style/tab_text_style"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="5dp"
+                android:checked="true"
+                android:text="全部组讯"/>
+
+            <RadioButton
+                android:id="@+id/radiobutton1"
+                style="@style/tab_text_style"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:text="已跑组讯"/>
+
+            <RadioButton
+                android:id="@+id/radiobutton2"
+                style="@style/tab_text_style"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:text="跟进组讯"/>
+
+            <RadioButton
+                android:id="@+id/radiobutton3"
+                style="@style/tab_text_style"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:text="备注组讯"/>
+
+
+        </RadioGroup>
+    </LinearLayout>
+
+    <View
+        android:id="@+id/view_line"
+        style="@style/bg_line_h"
+        android:layout_below="@+id/line_tab"/>
+
+    <com.movie.mling.movieapp.utils.widget.NoScrollViewPager
+        android:id="@+id/viewPager"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/view_line"
+        android:background="@color/white"/>
+
+</RelativeLayout>

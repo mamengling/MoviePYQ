@@ -1,0 +1,200 @@
+{
+  "msgdate": [
+    {
+      "title": "特长",
+      "list": [
+        {
+          "type": "1",
+          "ltitle": "唱歌",
+          "content": "唱歌",
+          "isChenge": "0"
+        },
+        {
+          "type": "1",
+          "ltitle": "跳舞",
+          "content": "跳舞",
+          "isChenge": "0"
+        },
+        {
+          "type": "1",
+          "ltitle": "武术",
+          "content": "武术",
+          "isChenge": "0"
+        },
+        {
+          "type": "1",
+          "ltitle": "骑马",
+          "content": "骑马",
+          "isChenge": "0"
+        },
+        {
+          "type": "1",
+          "ltitle": "乐器",
+          "content": "乐器",
+          "isChenge": "0"
+        },
+        {
+          "type": "1",
+          "ltitle": "方言",
+          "content": "方言",
+          "isChenge": "0"
+        },
+        {
+          "type": "1",
+          "ltitle": "外语",
+          "content": "外语",
+          "isChenge": "0"
+        },
+        {
+          "type": "1",
+          "ltitle": "主持",
+          "content": "主持",
+          "isChenge": "0"
+        },
+        {
+          "type": "1",
+          "ltitle": "驾驶",
+          "content": "驾驶",
+          "isChenge": "0"
+        },
+        {
+          "type": "1",
+          "ltitle": "游泳",
+          "content": "游泳",
+          "isChenge": "0"
+        },
+        {
+          "type": "1",
+          "ltitle": "其他",
+          "content": "其他",
+          "isChenge": "0"
+        }
+      ]
+    },
+    {
+      "title": "个性标签",
+      "list": [
+        {
+          "type": "1",
+          "ltitle": "特型",
+          "content": "特型",
+          "isChenge": "0"
+        },
+        {
+          "type": "1",
+          "ltitle": "朴实",
+          "content": "朴实",
+          "isChenge": "0"
+        },
+        {
+          "type": "1",
+          "ltitle": "谐星",
+          "content": "谐星",
+          "isChenge": "0"
+        },
+        {
+          "type": "1",
+          "ltitle": "胖咖",
+          "content": "胖咖",
+          "isChenge": "0"
+        },
+        {
+          "type": "1",
+          "ltitle": "丑咖",
+          "content": "丑咖",
+          "isChenge": "0"
+        },
+        {
+          "type": "1",
+          "ltitle": "痞气",
+          "content": "痞气",
+          "isChenge": "0"
+        },
+        {
+          "type": "1",
+          "ltitle": "反派",
+          "content": "反派",
+          "isChenge": "0"
+        },
+        {
+          "type": "1",
+          "ltitle": "中性",
+          "content": "中性",
+          "isChenge": "0"
+        },
+        {
+          "type": "1",
+          "ltitle": "妩媚",
+          "content": "妩媚",
+          "isChenge": "0"
+        },
+        {
+          "type": "1",
+          "ltitle": "性感",
+          "content": "性感",
+          "isChenge": "0"
+        },
+        {
+          "type": "1",
+          "ltitle": "知性",
+          "content": "知性",
+          "isChenge": "0"
+        },
+        {
+          "type": "1",
+          "ltitle": "御姐",
+          "content": "御姐",
+          "isChenge": "0"
+        },
+        {
+          "type": "1",
+          "ltitle": "清甜",
+          "content": "清甜",
+          "isChenge": "0"
+        },
+        {
+          "type": "1",
+          "ltitle": "帅气",
+          "content": "帅气",
+          "isChenge": "0"
+        },
+        {
+          "type": "1",
+          "ltitle": "大叔",
+          "content": "大叔",
+          "isChenge": "0"
+        },
+        {
+          "type": "1",
+          "ltitle": "霸道",
+          "content": "霸道",
+          "isChenge": "0"
+        },
+        {
+          "type": "1",
+          "ltitle": "成熟",
+          "content": "成熟",
+          "isChenge": "0"
+        },
+        {
+          "type": "1",
+          "ltitle": "型男",
+          "content": "型男",
+          "isChenge": "0"
+        },
+        {
+          "type": "1",
+          "ltitle": "阳光",
+          "content": "阳光",
+          "isChenge": "0"
+        },
+        {
+          "type": "1",
+          "ltitle": "土豪",
+          "content": "土豪",
+          "isChenge": "0"
+        }
+      ]
+    }
+  ]
+}

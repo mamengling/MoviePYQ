@@ -1,0 +1,3238 @@
+[
+  {
+    "career_list_id": 1,
+    "career_list_name": "技术",
+    "sub": [
+      {
+        "career_list_id": 11,
+        "career_list_name": "后端开发",
+        "sub": [
+          {
+            "career_list_id": 74,
+            "career_list_name": "Java"
+          },
+          {
+            "career_list_id": 75,
+            "career_list_name": "C++"
+          },
+          {
+            "career_list_id": 76,
+            "career_list_name": "PHP"
+          },
+          {
+            "career_list_id": 77,
+            "career_list_name": "数据挖掘"
+          },
+          {
+            "career_list_id": 78,
+            "career_list_name": "C"
+          },
+          {
+            "career_list_id": 79,
+            "career_list_name": "C#"
+          },
+          {
+            "career_list_id": 80,
+            "career_list_name": ".NET"
+          },
+          {
+            "career_list_id": 81,
+            "career_list_name": "Hadoop"
+          },
+          {
+            "career_list_id": 82,
+            "career_list_name": "Python"
+          },
+          {
+            "career_list_id": 83,
+            "career_list_name": "Delphi"
+          },
+          {
+            "career_list_id": 84,
+            "career_list_name": "VB"
+          },
+          {
+            "career_list_id": 85,
+            "career_list_name": "Perl"
+          },
+          {
+            "career_list_id": 86,
+            "career_list_name": "Ruby"
+          },
+          {
+            "career_list_id": 87,
+            "career_list_name": "Node.js"
+          },
+          {
+            "career_list_id": 88,
+            "career_list_name": "搜索算法"
+          },
+          {
+            "career_list_id": 89,
+            "career_list_name": "Golang"
+          },
+          {
+            "career_list_id": 90,
+            "career_list_name": "自然语言处理"
+          },
+          {
+            "career_list_id": 91,
+            "career_list_name": "推荐算法"
+          },
+          {
+            "career_list_id": 92,
+            "career_list_name": "Erlang"
+          },
+          {
+            "career_list_id": 93,
+            "career_list_name": "算法工程师"
+          },
+          {
+            "career_list_id": 94,
+            "career_list_name": "语音/视频/图形开发"
+          },
+          {
+            "career_list_id": 95,
+            "career_list_name": "数据采集"
+          }
+        ]
+      },
+      {
+        "career_list_id": 12,
+        "career_list_name": "移动开发",
+        "sub": [
+          {
+            "career_list_id": 96,
+            "career_list_name": "HTML5"
+          },
+          {
+            "career_list_id": 97,
+            "career_list_name": "Android"
+          },
+          {
+            "career_list_id": 98,
+            "career_list_name": "iOS"
+          },
+          {
+            "career_list_id": 99,
+            "career_list_name": "WP"
+          },
+          {
+            "career_list_id": 100,
+            "career_list_name": "web前端"
+          },
+          {
+            "career_list_id": 101,
+            "career_list_name": "Flash"
+          },
+          {
+            "career_list_id": 102,
+            "career_list_name": "JavaScript"
+          },
+          {
+            "career_list_id": 103,
+            "career_list_name": "U3D"
+          },
+          {
+            "career_list_id": 104,
+            "career_list_name": "COCOS2DX"
+          }
+        ]
+      },
+      {
+        "career_list_id": 13,
+        "career_list_name": "测试",
+        "sub": [
+          {
+            "career_list_id": 105,
+            "career_list_name": "测试工程师"
+          },
+          {
+            "career_list_id": 106,
+            "career_list_name": "自动化测试"
+          },
+          {
+            "career_list_id": 107,
+            "career_list_name": "功能测试"
+          },
+          {
+            "career_list_id": 108,
+            "career_list_name": "性能测试"
+          },
+          {
+            "career_list_id": 109,
+            "career_list_name": "测试开发"
+          },
+          {
+            "career_list_id": 110,
+            "career_list_name": "移动端测试"
+          },
+          {
+            "career_list_id": 111,
+            "career_list_name": "游戏测试"
+          },
+          {
+            "career_list_id": 112,
+            "career_list_name": "硬件测试"
+          },
+          {
+            "career_list_id": 113,
+            "career_list_name": "软件测试"
+          }
+        ]
+      },
+      {
+        "career_list_id": 14,
+        "career_list_name": "运维/技术支持",
+        "sub": [
+          {
+            "career_list_id": 114,
+            "career_list_name": "运维工程师"
+          },
+          {
+            "career_list_id": 115,
+            "career_list_name": "运维开发工程师"
+          },
+          {
+            "career_list_id": 116,
+            "career_list_name": "网络工程师"
+          },
+          {
+            "career_list_id": 117,
+            "career_list_name": "系统工程师"
+          },
+          {
+            "career_list_id": 118,
+            "career_list_name": "IT技术支持"
+          },
+          {
+            "career_list_id": 119,
+            "career_list_name": "系统管理员"
+          },
+          {
+            "career_list_id": 120,
+            "career_list_name": "网络安全"
+          },
+          {
+            "career_list_id": 121,
+            "career_list_name": "系统安全"
+          },
+          {
+            "career_list_id": 122,
+            "career_list_name": "DBA"
+          }
+        ]
+      },
+      {
+        "career_list_id": 15,
+        "career_list_name": "数据",
+        "sub": [
+          {
+            "career_list_id": 123,
+            "career_list_name": "ETL工程师"
+          },
+          {
+            "career_list_id": 124,
+            "career_list_name": "数据仓库"
+          },
+          {
+            "career_list_id": 125,
+            "career_list_name": "数据开发"
+          },
+          {
+            "career_list_id": 126,
+            "career_list_name": "数据挖掘"
+          },
+          {
+            "career_list_id": 127,
+            "career_list_name": "数据分析师"
+          },
+          {
+            "career_list_id": 128,
+            "career_list_name": "数据架构师"
+          },
+          {
+            "career_list_id": 129,
+            "career_list_name": "算法研究员"
+          }
+        ]
+      },
+      {
+        "career_list_id": 16,
+        "career_list_name": "项目管理",
+        "sub": [
+          {
+            "career_list_id": 130,
+            "career_list_name": "项目经理"
+          },
+          {
+            "career_list_id": 131,
+            "career_list_name": "项目主管"
+          },
+          {
+            "career_list_id": 132,
+            "career_list_name": "项目助理"
+          },
+          {
+            "career_list_id": 133,
+            "career_list_name": "项目专员"
+          },
+          {
+            "career_list_id": 134,
+            "career_list_name": "实施顾问"
+          },
+          {
+            "career_list_id": 135,
+            "career_list_name": "实施工程师"
+          },
+          {
+            "career_list_id": 136,
+            "career_list_name": "需求分析工程师"
+          }
+        ]
+      },
+      {
+        "career_list_id": 17,
+        "career_list_name": "硬件开发",
+        "sub": [
+          {
+            "career_list_id": 137,
+            "career_list_name": "硬件"
+          },
+          {
+            "career_list_id": 138,
+            "career_list_name": "嵌入式"
+          },
+          {
+            "career_list_id": 139,
+            "career_list_name": "自动化"
+          },
+          {
+            "career_list_id": 140,
+            "career_list_name": "单片机"
+          },
+          {
+            "career_list_id": 141,
+            "career_list_name": "电路设计"
+          },
+          {
+            "career_list_id": 142,
+            "career_list_name": "驱动开发"
+          },
+          {
+            "career_list_id": 143,
+            "career_list_name": "系统集成"
+          },
+          {
+            "career_list_id": 144,
+            "career_list_name": "FPGA开发"
+          },
+          {
+            "career_list_id": 145,
+            "career_list_name": "DSP开发"
+          },
+          {
+            "career_list_id": 146,
+            "career_list_name": "ARM开发"
+          },
+          {
+            "career_list_id": 147,
+            "career_list_name": "PCB工艺"
+          },
+          {
+            "career_list_id": 148,
+            "career_list_name": "模具设计"
+          },
+          {
+            "career_list_id": 149,
+            "career_list_name": "热传导"
+          },
+          {
+            "career_list_id": 150,
+            "career_list_name": "材料工程师"
+          },
+          {
+            "career_list_id": 151,
+            "career_list_name": "精益工程师"
+          },
+          {
+            "career_list_id": 152,
+            "career_list_name": "射频工程师"
+          }
+        ]
+      },
+      {
+        "career_list_id": 18,
+        "career_list_name": "前端开发",
+        "sub": [
+          {
+            "career_list_id": 153,
+            "career_list_name": "web前端"
+          },
+          {
+            "career_list_id": 154,
+            "career_list_name": "Javascript"
+          },
+          {
+            "career_list_id": 155,
+            "career_list_name": "Flash"
+          },
+          {
+            "career_list_id": 156,
+            "career_list_name": "HTML5"
+          }
+        ]
+      },
+      {
+        "career_list_id": 19,
+        "career_list_name": "通信",
+        "sub": [
+          {
+            "career_list_id": 157,
+            "career_list_name": "通信技术工程师"
+          },
+          {
+            "career_list_id": 158,
+            "career_list_name": "通信研发工程师"
+          },
+          {
+            "career_list_id": 159,
+            "career_list_name": "数据通信工程师"
+          },
+          {
+            "career_list_id": 160,
+            "career_list_name": "移动通信工程师"
+          },
+          {
+            "career_list_id": 161,
+            "career_list_name": "电信网络工程师"
+          },
+          {
+            "career_list_id": 162,
+            "career_list_name": "电信交换工程师"
+          },
+          {
+            "career_list_id": 163,
+            "career_list_name": "有线传输工程师"
+          },
+          {
+            "career_list_id": 164,
+            "career_list_name": "无线射频工程师"
+          },
+          {
+            "career_list_id": 165,
+            "career_list_name": "通信电源工程师"
+          },
+          {
+            "career_list_id": 166,
+            "career_list_name": "通信标准化工程师"
+          },
+          {
+            "career_list_id": 167,
+            "career_list_name": "通信项目专员"
+          },
+          {
+            "career_list_id": 168,
+            "career_list_name": "通信项目经理"
+          },
+          {
+            "career_list_id": 169,
+            "career_list_name": "核心网工程师"
+          },
+          {
+            "career_list_id": 170,
+            "career_list_name": "通信测试工程师"
+          },
+          {
+            "career_list_id": 171,
+            "career_list_name": "通信设备工程师"
+          },
+          {
+            "career_list_id": 172,
+            "career_list_name": "光通信工程师"
+          },
+          {
+            "career_list_id": 173,
+            "career_list_name": "光传输工程师"
+          },
+          {
+            "career_list_id": 174,
+            "career_list_name": "光网络工程师"
+          }
+        ]
+      },
+      {
+        "career_list_id": 20,
+        "career_list_name": "高端技术职位",
+        "sub": [
+          {
+            "career_list_id": 175,
+            "career_list_name": "技术经理"
+          },
+          {
+            "career_list_id": 176,
+            "career_list_name": "技术总监"
+          },
+          {
+            "career_list_id": 177,
+            "career_list_name": "测试经理"
+          },
+          {
+            "career_list_id": 178,
+            "career_list_name": "架构师"
+          },
+          {
+            "career_list_id": 179,
+            "career_list_name": "CTO"
+          },
+          {
+            "career_list_id": 180,
+            "career_list_name": "运维总监"
+          },
+          {
+            "career_list_id": 181,
+            "career_list_name": "技术合伙人"
+          }
+        ]
+      },
+      {
+        "career_list_id": 21,
+        "career_list_name": "人工智能",
+        "sub": [
+          {
+            "career_list_id": 182,
+            "career_list_name": "机器学习"
+          },
+          {
+            "career_list_id": 183,
+            "career_list_name": "深度学习"
+          },
+          {
+            "career_list_id": 184,
+            "career_list_name": "图像算法"
+          },
+          {
+            "career_list_id": 185,
+            "career_list_name": "图像处理"
+          },
+          {
+            "career_list_id": 186,
+            "career_list_name": "语音识别"
+          },
+          {
+            "career_list_id": 187,
+            "career_list_name": "图像识别"
+          },
+          {
+            "career_list_id": 188,
+            "career_list_name": "算法研究员"
+          }
+        ]
+      },
+      {
+        "career_list_id": 22,
+        "career_list_name": "软件销售支持",
+        "sub": [
+          {
+            "career_list_id": 189,
+            "career_list_name": "售前工程师"
+          },
+          {
+            "career_list_id": 190,
+            "career_list_name": "售后工程师"
+          }
+        ]
+      },
+      {
+        "career_list_id": 23,
+        "career_list_name": "其他技术职位",
+        "sub": [
+          {
+            "career_list_id": 191,
+            "career_list_name": "其他技术职位"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career_list_id": 2,
+    "career_list_name": "产品",
+    "sub": [
+      {
+        "career_list_id": 24,
+        "career_list_name": "产品经理",
+        "sub": [
+          {
+            "career_list_id": 192,
+            "career_list_name": "产品经理"
+          },
+          {
+            "career_list_id": 193,
+            "career_list_name": "网页产品经理"
+          },
+          {
+            "career_list_id": 194,
+            "career_list_name": "移动产品经理"
+          },
+          {
+            "career_list_id": 195,
+            "career_list_name": "产品助理"
+          },
+          {
+            "career_list_id": 196,
+            "career_list_name": "数据产品经理"
+          },
+          {
+            "career_list_id": 197,
+            "career_list_name": "电商产品经理"
+          },
+          {
+            "career_list_id": 198,
+            "career_list_name": "游戏策划"
+          },
+          {
+            "career_list_id": 199,
+            "career_list_name": "产品专员"
+          }
+        ]
+      },
+      {
+        "career_list_id": 25,
+        "career_list_name": "高端产品职位",
+        "sub": [
+          {
+            "career_list_id": 200,
+            "career_list_name": "产品总监"
+          },
+          {
+            "career_list_id": 201,
+            "career_list_name": "游戏制作人"
+          },
+          {
+            "career_list_id": 202,
+            "career_list_name": "产品VP"
+          }
+        ]
+      },
+      {
+        "career_list_id": 26,
+        "career_list_name": "其他产品职位",
+        "sub": [
+          {
+            "career_list_id": 203,
+            "career_list_name": "其他产品职位"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career_list_id": 3,
+    "career_list_name": "设计",
+    "sub": [
+      {
+        "career_list_id": 27,
+        "career_list_name": "视觉设计",
+        "sub": [
+          {
+            "career_list_id": 204,
+            "career_list_name": "视觉设计师"
+          },
+          {
+            "career_list_id": 205,
+            "career_list_name": "网页设计师"
+          },
+          {
+            "career_list_id": 206,
+            "career_list_name": "Flash设计师"
+          },
+          {
+            "career_list_id": 207,
+            "career_list_name": "APP设计师"
+          },
+          {
+            "career_list_id": 208,
+            "career_list_name": "UI设计师"
+          },
+          {
+            "career_list_id": 209,
+            "career_list_name": "平面设计师"
+          },
+          {
+            "career_list_id": 210,
+            "career_list_name": "美术设计师（2D/3D）"
+          },
+          {
+            "career_list_id": 211,
+            "career_list_name": "广告设计师"
+          },
+          {
+            "career_list_id": 212,
+            "career_list_name": "多媒体设计师"
+          },
+          {
+            "career_list_id": 213,
+            "career_list_name": "原画师"
+          },
+          {
+            "career_list_id": 214,
+            "career_list_name": "游戏特效"
+          },
+          {
+            "career_list_id": 215,
+            "career_list_name": "游戏界面设计师"
+          },
+          {
+            "career_list_id": 216,
+            "career_list_name": "游戏场景"
+          },
+          {
+            "career_list_id": 217,
+            "career_list_name": "游戏角色"
+          },
+          {
+            "career_list_id": 218,
+            "career_list_name": "游戏动作"
+          },
+          {
+            "career_list_id": 219,
+            "career_list_name": "三维/CAD/制图"
+          },
+          {
+            "career_list_id": 220,
+            "career_list_name": "美工"
+          },
+          {
+            "career_list_id": 221,
+            "career_list_name": "包装设计"
+          },
+          {
+            "career_list_id": 222,
+            "career_list_name": "设计师助理"
+          },
+          {
+            "career_list_id": 223,
+            "career_list_name": "动画设计师"
+          },
+          {
+            "career_list_id": 224,
+            "career_list_name": "插画师"
+          }
+        ]
+      },
+      {
+        "career_list_id": 28,
+        "career_list_name": "交互设计",
+        "sub": [
+          {
+            "career_list_id": 225,
+            "career_list_name": "交互设计师"
+          },
+          {
+            "career_list_id": 226,
+            "career_list_name": "无线交互设计师"
+          },
+          {
+            "career_list_id": 227,
+            "career_list_name": "网页交互设计师"
+          },
+          {
+            "career_list_id": 228,
+            "career_list_name": "硬件交互设计师"
+          }
+        ]
+      },
+      {
+        "career_list_id": 29,
+        "career_list_name": "用户研究",
+        "sub": [
+          {
+            "career_list_id": 229,
+            "career_list_name": "数据分析师"
+          },
+          {
+            "career_list_id": 230,
+            "career_list_name": "用户研究员"
+          },
+          {
+            "career_list_id": 231,
+            "career_list_name": "游戏数值策划"
+          },
+          {
+            "career_list_id": 232,
+            "career_list_name": "UX设计师"
+          },
+          {
+            "career_list_id": 233,
+            "career_list_name": "用户研究经理"
+          },
+          {
+            "career_list_id": 234,
+            "career_list_name": "用户研究总监"
+          }
+        ]
+      },
+      {
+        "career_list_id": 30,
+        "career_list_name": "高端设计职位",
+        "sub": [
+          {
+            "career_list_id": 235,
+            "career_list_name": "设计经理/主管"
+          },
+          {
+            "career_list_id": 236,
+            "career_list_name": "设计总监"
+          },
+          {
+            "career_list_id": 237,
+            "career_list_name": "视觉设计经理"
+          },
+          {
+            "career_list_id": 238,
+            "career_list_name": "视觉设计总监"
+          },
+          {
+            "career_list_id": 239,
+            "career_list_name": "交互设计经理/主管"
+          },
+          {
+            "career_list_id": 240,
+            "career_list_name": "交互设计总监"
+          }
+        ]
+      },
+      {
+        "career_list_id": 31,
+        "career_list_name": "非视觉设计",
+        "sub": [
+          {
+            "career_list_id": 241,
+            "career_list_name": "服装设计"
+          },
+          {
+            "career_list_id": 242,
+            "career_list_name": "工业设计"
+          },
+          {
+            "career_list_id": 243,
+            "career_list_name": "橱柜设计"
+          },
+          {
+            "career_list_id": 244,
+            "career_list_name": "家具设计"
+          },
+          {
+            "career_list_id": 245,
+            "career_list_name": "家居设计"
+          },
+          {
+            "career_list_id": 246,
+            "career_list_name": "珠宝设计"
+          },
+          {
+            "career_list_id": 247,
+            "career_list_name": "室内设计"
+          },
+          {
+            "career_list_id": 248,
+            "career_list_name": "陈列设计"
+          },
+          {
+            "career_list_id": 249,
+            "career_list_name": "景观设计"
+          }
+        ]
+      },
+      {
+        "career_list_id": 32,
+        "career_list_name": "其他设计职位",
+        "sub": [
+          {
+            "career_list_id": 250,
+            "career_list_name": "其他设计职位"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career_list_id": 4,
+    "career_list_name": "运营",
+    "sub": [
+      {
+        "career_list_id": 33,
+        "career_list_name": "运营",
+        "sub": [
+          {
+            "career_list_id": 251,
+            "career_list_name": "用户运营"
+          },
+          {
+            "career_list_id": 252,
+            "career_list_name": "产品运营"
+          },
+          {
+            "career_list_id": 253,
+            "career_list_name": "数据运营"
+          },
+          {
+            "career_list_id": 254,
+            "career_list_name": "内容运营"
+          },
+          {
+            "career_list_id": 255,
+            "career_list_name": "活动运营"
+          },
+          {
+            "career_list_id": 256,
+            "career_list_name": "商家运营"
+          },
+          {
+            "career_list_id": 257,
+            "career_list_name": "品类运营"
+          },
+          {
+            "career_list_id": 258,
+            "career_list_name": "游戏运营"
+          },
+          {
+            "career_list_id": 259,
+            "career_list_name": "网络推广"
+          },
+          {
+            "career_list_id": 260,
+            "career_list_name": "网站运营"
+          },
+          {
+            "career_list_id": 261,
+            "career_list_name": "新媒体运营"
+          },
+          {
+            "career_list_id": 262,
+            "career_list_name": "社区运营"
+          },
+          {
+            "career_list_id": 263,
+            "career_list_name": "微信运营"
+          },
+          {
+            "career_list_id": 264,
+            "career_list_name": "微博运营"
+          },
+          {
+            "career_list_id": 265,
+            "career_list_name": "策略运营"
+          },
+          {
+            "career_list_id": 266,
+            "career_list_name": "线下拓展运营"
+          },
+          {
+            "career_list_id": 267,
+            "career_list_name": "电商运营"
+          },
+          {
+            "career_list_id": 268,
+            "career_list_name": "运营助理/专员"
+          },
+          {
+            "career_list_id": 269,
+            "career_list_name": "销售运营"
+          }
+        ]
+      },
+      {
+        "career_list_id": 34,
+        "career_list_name": "编辑",
+        "sub": [
+          {
+            "career_list_id": 270,
+            "career_list_name": "副主编"
+          },
+          {
+            "career_list_id": 271,
+            "career_list_name": "内容编辑"
+          },
+          {
+            "career_list_id": 272,
+            "career_list_name": "文案策划"
+          },
+          {
+            "career_list_id": 273,
+            "career_list_name": "网站编辑"
+          },
+          {
+            "career_list_id": 274,
+            "career_list_name": "记者"
+          },
+          {
+            "career_list_id": 275,
+            "career_list_name": "采编"
+          }
+        ]
+      },
+      {
+        "career_list_id": 35,
+        "career_list_name": "客服",
+        "sub": [
+          {
+            "career_list_id": 276,
+            "career_list_name": "售前咨询"
+          },
+          {
+            "career_list_id": 277,
+            "career_list_name": "售后咨询"
+          },
+          {
+            "career_list_id": 278,
+            "career_list_name": "网络客服"
+          },
+          {
+            "career_list_id": 279,
+            "career_list_name": "客服经理"
+          },
+          {
+            "career_list_id": 280,
+            "career_list_name": "客服专员/助理"
+          },
+          {
+            "career_list_id": 281,
+            "career_list_name": "客服主管"
+          },
+          {
+            "career_list_id": 282,
+            "career_list_name": "客服总监"
+          },
+          {
+            "career_list_id": 283,
+            "career_list_name": "电话客服"
+          },
+          {
+            "career_list_id": 284,
+            "career_list_name": "咨询热线/呼叫中心客服"
+          }
+        ]
+      },
+      {
+        "career_list_id": 36,
+        "career_list_name": "高端运营职位",
+        "sub": [
+          {
+            "career_list_id": 285,
+            "career_list_name": "主编"
+          },
+          {
+            "career_list_id": 286,
+            "career_list_name": "运营总监"
+          },
+          {
+            "career_list_id": 287,
+            "career_list_name": "COO"
+          },
+          {
+            "career_list_id": 288,
+            "career_list_name": "客服总监"
+          },
+          {
+            "career_list_id": 289,
+            "career_list_name": "运营经理/主管"
+          }
+        ]
+      },
+      {
+        "career_list_id": 37,
+        "career_list_name": "其他运营职位",
+        "sub": [
+          {
+            "career_list_id": 290,
+            "career_list_name": "其他运营职位"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career_list_id": 5,
+    "career_list_name": "市场",
+    "sub": [
+      {
+        "career_list_id": 38,
+        "career_list_name": "市场/营销",
+        "sub": [
+          {
+            "career_list_id": 291,
+            "career_list_name": "市场营销"
+          },
+          {
+            "career_list_id": 292,
+            "career_list_name": "市场策划"
+          },
+          {
+            "career_list_id": 293,
+            "career_list_name": "市场顾问"
+          },
+          {
+            "career_list_id": 294,
+            "career_list_name": "市场推广"
+          },
+          {
+            "career_list_id": 295,
+            "career_list_name": "SEO"
+          },
+          {
+            "career_list_id": 296,
+            "career_list_name": "SEM"
+          },
+          {
+            "career_list_id": 297,
+            "career_list_name": "商务渠道"
+          },
+          {
+            "career_list_id": 298,
+            "career_list_name": "商业数据分析"
+          },
+          {
+            "career_list_id": 299,
+            "career_list_name": "活动策划"
+          },
+          {
+            "career_list_id": 300,
+            "career_list_name": "网络营销"
+          },
+          {
+            "career_list_id": 301,
+            "career_list_name": "海外市场"
+          },
+          {
+            "career_list_id": 302,
+            "career_list_name": "政府关系"
+          }
+        ]
+      },
+      {
+        "career_list_id": 39,
+        "career_list_name": "公关媒介",
+        "sub": [
+          {
+            "career_list_id": 303,
+            "career_list_name": "媒介经理"
+          },
+          {
+            "career_list_id": 304,
+            "career_list_name": "广告协调"
+          },
+          {
+            "career_list_id": 305,
+            "career_list_name": "品牌公关"
+          },
+          {
+            "career_list_id": 306,
+            "career_list_name": "媒介专员"
+          },
+          {
+            "career_list_id": 307,
+            "career_list_name": "活动策划执行"
+          },
+          {
+            "career_list_id": 308,
+            "career_list_name": "媒介策划"
+          }
+        ]
+      },
+      {
+        "career_list_id": 40,
+        "career_list_name": "会务会展",
+        "sub": [
+          {
+            "career_list_id": 309,
+            "career_list_name": "会议活动销售"
+          },
+          {
+            "career_list_id": 310,
+            "career_list_name": "会议活动策划"
+          },
+          {
+            "career_list_id": 311,
+            "career_list_name": "会议活动执行"
+          },
+          {
+            "career_list_id": 312,
+            "career_list_name": "会展活动销售"
+          },
+          {
+            "career_list_id": 313,
+            "career_list_name": "会展活动策划"
+          },
+          {
+            "career_list_id": 314,
+            "career_list_name": "会展活动执行"
+          }
+        ]
+      },
+      {
+        "career_list_id": 41,
+        "career_list_name": "广告",
+        "sub": [
+          {
+            "career_list_id": 315,
+            "career_list_name": "广告创意"
+          },
+          {
+            "career_list_id": 316,
+            "career_list_name": "美术指导"
+          },
+          {
+            "career_list_id": 317,
+            "career_list_name": "广告设计师"
+          },
+          {
+            "career_list_id": 318,
+            "career_list_name": "策划经理"
+          },
+          {
+            "career_list_id": 319,
+            "career_list_name": "文案"
+          },
+          {
+            "career_list_id": 320,
+            "career_list_name": "广告制作"
+          },
+          {
+            "career_list_id": 321,
+            "career_list_name": "媒介投放"
+          },
+          {
+            "career_list_id": 322,
+            "career_list_name": "媒介合作"
+          },
+          {
+            "career_list_id": 323,
+            "career_list_name": "媒介顾问"
+          },
+          {
+            "career_list_id": 324,
+            "career_list_name": "广告审核"
+          }
+        ]
+      },
+      {
+        "career_list_id": 42,
+        "career_list_name": "高端市场职位",
+        "sub": [
+          {
+            "career_list_id": 325,
+            "career_list_name": "市场总监"
+          },
+          {
+            "career_list_id": 326,
+            "career_list_name": "CMO"
+          },
+          {
+            "career_list_id": 327,
+            "career_list_name": "公关总监"
+          },
+          {
+            "career_list_id": 328,
+            "career_list_name": "媒介总监"
+          },
+          {
+            "career_list_id": 329,
+            "career_list_name": "创意总监"
+          }
+        ]
+      },
+      {
+        "career_list_id": 43,
+        "career_list_name": "其他市场职位",
+        "sub": [
+          {
+            "career_list_id": 330,
+            "career_list_name": "其他市场职位"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career_list_id": 6,
+    "career_list_name": "职能/高级管理",
+    "sub": [
+      {
+        "career_list_id": 44,
+        "career_list_name": "人力资源",
+        "sub": [
+          {
+            "career_list_id": 331,
+            "career_list_name": "人力资源主管"
+          },
+          {
+            "career_list_id": 332,
+            "career_list_name": "招聘"
+          },
+          {
+            "career_list_id": 333,
+            "career_list_name": "HRBP"
+          },
+          {
+            "career_list_id": 334,
+            "career_list_name": "人力资源专员/助理"
+          },
+          {
+            "career_list_id": 335,
+            "career_list_name": "培训"
+          },
+          {
+            "career_list_id": 336,
+            "career_list_name": "薪资福利"
+          },
+          {
+            "career_list_id": 337,
+            "career_list_name": "绩效考核"
+          },
+          {
+            "career_list_id": 338,
+            "career_list_name": "人力资源经理"
+          },
+          {
+            "career_list_id": 339,
+            "career_list_name": "人力资源VP/CHO"
+          },
+          {
+            "career_list_id": 340,
+            "career_list_name": "人力资源总监"
+          },
+          {
+            "career_list_id": 341,
+            "career_list_name": "员工关系"
+          },
+          {
+            "career_list_id": 342,
+            "career_list_name": "组织发展"
+          }
+        ]
+      },
+      {
+        "career_list_id": 45,
+        "career_list_name": "行政",
+        "sub": [
+          {
+            "career_list_id": 343,
+            "career_list_name": "行政专员/助理"
+          },
+          {
+            "career_list_id": 344,
+            "career_list_name": "前台"
+          },
+          {
+            "career_list_id": 345,
+            "career_list_name": "行政主管"
+          },
+          {
+            "career_list_id": 346,
+            "career_list_name": "经理助理"
+          },
+          {
+            "career_list_id": 347,
+            "career_list_name": "后勤"
+          },
+          {
+            "career_list_id": 348,
+            "career_list_name": "商务司机"
+          },
+          {
+            "career_list_id": 349,
+            "career_list_name": "行政经理"
+          },
+          {
+            "career_list_id": 350,
+            "career_list_name": "行政总监"
+          }
+        ]
+      },
+      {
+        "career_list_id": 46,
+        "career_list_name": "财务",
+        "sub": [
+          {
+            "career_list_id": 351,
+            "career_list_name": "会计"
+          },
+          {
+            "career_list_id": 352,
+            "career_list_name": "出纳"
+          },
+          {
+            "career_list_id": 353,
+            "career_list_name": "财务顾问"
+          },
+          {
+            "career_list_id": 354,
+            "career_list_name": "结算"
+          },
+          {
+            "career_list_id": 355,
+            "career_list_name": "税务"
+          },
+          {
+            "career_list_id": 356,
+            "career_list_name": "审计"
+          },
+          {
+            "career_list_id": 357,
+            "career_list_name": "风控"
+          },
+          {
+            "career_list_id": 358,
+            "career_list_name": "财务经理"
+          },
+          {
+            "career_list_id": 359,
+            "career_list_name": "CFO"
+          },
+          {
+            "career_list_id": 360,
+            "career_list_name": "财务总监"
+          },
+          {
+            "career_list_id": 361,
+            "career_list_name": "财务主管"
+          }
+        ]
+      },
+      {
+        "career_list_id": 47,
+        "career_list_name": "法务",
+        "sub": [
+          {
+            "career_list_id": 362,
+            "career_list_name": "法务专员/助理"
+          },
+          {
+            "career_list_id": 363,
+            "career_list_name": "律师"
+          },
+          {
+            "career_list_id": 364,
+            "career_list_name": "专利"
+          },
+          {
+            "career_list_id": 365,
+            "career_list_name": "法律顾问"
+          },
+          {
+            "career_list_id": 366,
+            "career_list_name": "法务主管"
+          },
+          {
+            "career_list_id": 367,
+            "career_list_name": "法务经理"
+          },
+          {
+            "career_list_id": 368,
+            "career_list_name": "法务总监"
+          }
+        ]
+      },
+      {
+        "career_list_id": 48,
+        "career_list_name": "高级管理职位",
+        "sub": [
+          {
+            "career_list_id": 369,
+            "career_list_name": "CEO/总裁/总经理"
+          },
+          {
+            "career_list_id": 370,
+            "career_list_name": "副总裁/副总经理"
+          },
+          {
+            "career_list_id": 371,
+            "career_list_name": "事业部负责人"
+          },
+          {
+            "career_list_id": 372,
+            "career_list_name": "区域/分公司/代表处负责人"
+          },
+          {
+            "career_list_id": 373,
+            "career_list_name": "总裁/总经理/董事长助理"
+          },
+          {
+            "career_list_id": 374,
+            "career_list_name": "合伙人"
+          },
+          {
+            "career_list_id": 375,
+            "career_list_name": "创始人"
+          },
+          {
+            "career_list_id": 376,
+            "career_list_name": "董事会秘书"
+          }
+        ]
+      },
+      {
+        "career_list_id": 49,
+        "career_list_name": "其他职能职位",
+        "sub": [
+          {
+            "career_list_id": 377,
+            "career_list_name": "其他职能职位"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career_list_id": 7,
+    "career_list_name": "销售",
+    "sub": [
+      {
+        "career_list_id": 50,
+        "career_list_name": "销售",
+        "sub": [
+          {
+            "career_list_id": 378,
+            "career_list_name": "销售专员"
+          },
+          {
+            "career_list_id": 379,
+            "career_list_name": "销售经理"
+          },
+          {
+            "career_list_id": 380,
+            "career_list_name": "客户代表"
+          },
+          {
+            "career_list_id": 381,
+            "career_list_name": "大客户代表"
+          },
+          {
+            "career_list_id": 382,
+            "career_list_name": "BD经理"
+          },
+          {
+            "career_list_id": 383,
+            "career_list_name": "商务渠道"
+          },
+          {
+            "career_list_id": 384,
+            "career_list_name": "渠道销售"
+          },
+          {
+            "career_list_id": 385,
+            "career_list_name": "代理商销售"
+          },
+          {
+            "career_list_id": 386,
+            "career_list_name": "销售助理"
+          },
+          {
+            "career_list_id": 387,
+            "career_list_name": "电话销售"
+          },
+          {
+            "career_list_id": 388,
+            "career_list_name": "销售顾问"
+          },
+          {
+            "career_list_id": 389,
+            "career_list_name": "商品经理"
+          },
+          {
+            "career_list_id": 390,
+            "career_list_name": "广告销售"
+          },
+          {
+            "career_list_id": 391,
+            "career_list_name": "网络营销"
+          },
+          {
+            "career_list_id": 392,
+            "career_list_name": "营销主管"
+          }
+        ]
+      },
+      {
+        "career_list_id": 51,
+        "career_list_name": "销售管理",
+        "sub": [
+          {
+            "career_list_id": 393,
+            "career_list_name": "销售总监"
+          },
+          {
+            "career_list_id": 394,
+            "career_list_name": "商务总监"
+          },
+          {
+            "career_list_id": 395,
+            "career_list_name": "区域总监"
+          },
+          {
+            "career_list_id": 396,
+            "career_list_name": "城市经理"
+          },
+          {
+            "career_list_id": 397,
+            "career_list_name": "销售VP"
+          },
+          {
+            "career_list_id": 398,
+            "career_list_name": "团队经理"
+          }
+        ]
+      },
+      {
+        "career_list_id": 52,
+        "career_list_name": "其他销售职位",
+        "sub": [
+          {
+            "career_list_id": 399,
+            "career_list_name": "其他销售职位"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career_list_id": 8,
+    "career_list_name": "传媒",
+    "sub": [
+      {
+        "career_list_id": 53,
+        "career_list_name": "采编/写作/出版",
+        "sub": [
+          {
+            "career_list_id": 400,
+            "career_list_name": "记者"
+          },
+          {
+            "career_list_id": 401,
+            "career_list_name": "编辑"
+          },
+          {
+            "career_list_id": 402,
+            "career_list_name": "采编"
+          },
+          {
+            "career_list_id": 403,
+            "career_list_name": "撰稿人"
+          },
+          {
+            "career_list_id": 404,
+            "career_list_name": "出版发行"
+          },
+          {
+            "career_list_id": 405,
+            "career_list_name": "校对录入"
+          },
+          {
+            "career_list_id": 406,
+            "career_list_name": "总编"
+          },
+          {
+            "career_list_id": 407,
+            "career_list_name": "自媒体"
+          }
+        ]
+      },
+      {
+        "career_list_id": 54,
+        "career_list_name": "公关媒介",
+        "sub": [
+          {
+            "career_list_id": 408,
+            "career_list_name": "媒介经理"
+          },
+          {
+            "career_list_id": 409,
+            "career_list_name": "媒介专员"
+          },
+          {
+            "career_list_id": 410,
+            "career_list_name": "广告协调"
+          },
+          {
+            "career_list_id": 411,
+            "career_list_name": "品牌公关"
+          },
+          {
+            "career_list_id": 412,
+            "career_list_name": "活动策划执行"
+          },
+          {
+            "career_list_id": 413,
+            "career_list_name": "媒介策划"
+          }
+        ]
+      },
+      {
+        "career_list_id": 55,
+        "career_list_name": "会务会展",
+        "sub": [
+          {
+            "career_list_id": 414,
+            "career_list_name": "会议活动销售"
+          },
+          {
+            "career_list_id": 415,
+            "career_list_name": "会议活动策划"
+          },
+          {
+            "career_list_id": 416,
+            "career_list_name": "会议活动执行"
+          },
+          {
+            "career_list_id": 417,
+            "career_list_name": "会展活动销售"
+          },
+          {
+            "career_list_id": 418,
+            "career_list_name": "会展活动策划"
+          },
+          {
+            "career_list_id": 419,
+            "career_list_name": "会展活动执行"
+          }
+        ]
+      },
+      {
+        "career_list_id": 56,
+        "career_list_name": "广告",
+        "sub": [
+          {
+            "career_list_id": 420,
+            "career_list_name": "广告创意"
+          },
+          {
+            "career_list_id": 421,
+            "career_list_name": "美术指导"
+          },
+          {
+            "career_list_id": 422,
+            "career_list_name": "广告设计师"
+          },
+          {
+            "career_list_id": 423,
+            "career_list_name": "策划经理"
+          },
+          {
+            "career_list_id": 424,
+            "career_list_name": "文案"
+          },
+          {
+            "career_list_id": 425,
+            "career_list_name": "广告制作"
+          },
+          {
+            "career_list_id": 426,
+            "career_list_name": "媒介投放"
+          },
+          {
+            "career_list_id": 427,
+            "career_list_name": "媒介合作"
+          },
+          {
+            "career_list_id": 428,
+            "career_list_name": "媒介顾问"
+          },
+          {
+            "career_list_id": 429,
+            "career_list_name": "广告审核"
+          }
+        ]
+      },
+      {
+        "career_list_id": 57,
+        "career_list_name": "影视媒体",
+        "sub": [
+          {
+            "career_list_id": 430,
+            "career_list_name": "助理"
+          },
+          {
+            "career_list_id": 431,
+            "career_list_name": "统筹制片人"
+          },
+          {
+            "career_list_id": 432,
+            "career_list_name": "执行制片人"
+          },
+          {
+            "career_list_id": 433,
+            "career_list_name": "导演/编导"
+          },
+          {
+            "career_list_id": 434,
+            "career_list_name": "摄影/影像师"
+          },
+          {
+            "career_list_id": 435,
+            "career_list_name": "视频编辑"
+          },
+          {
+            "career_list_id": 436,
+            "career_list_name": "音频编辑"
+          },
+          {
+            "career_list_id": 437,
+            "career_list_name": "经纪人"
+          },
+          {
+            "career_list_id": 438,
+            "career_list_name": "后期制作"
+          },
+          {
+            "career_list_id": 439,
+            "career_list_name": "影视制作"
+          },
+          {
+            "career_list_id": 440,
+            "career_list_name": "影视发行"
+          },
+          {
+            "career_list_id": 441,
+            "career_list_name": "影视策划"
+          },
+          {
+            "career_list_id": 442,
+            "career_list_name": "主持人/主播/DJ"
+          },
+          {
+            "career_list_id": 443,
+            "career_list_name": "演员/配音/模特"
+          },
+          {
+            "career_list_id": 444,
+            "career_list_name": "化妆/造型/服装"
+          },
+          {
+            "career_list_id": 445,
+            "career_list_name": "放映管理"
+          },
+          {
+            "career_list_id": 446,
+            "career_list_name": "录音/音效"
+          },
+          {
+            "career_list_id": 447,
+            "career_list_name": "制片人"
+          },
+          {
+            "career_list_id": 448,
+            "career_list_name": "编剧"
+          }
+        ]
+      },
+      {
+        "career_list_id": 58,
+        "career_list_name": "其他传媒职位",
+        "sub": [
+          {
+            "career_list_id": 449,
+            "career_list_name": "其他传媒职位"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career_list_id": 9,
+    "career_list_name": "金融",
+    "sub": [
+      {
+        "career_list_id": 59,
+        "career_list_name": "投融资",
+        "sub": [
+          {
+            "career_list_id": 450,
+            "career_list_name": "投资经理"
+          },
+          {
+            "career_list_id": 451,
+            "career_list_name": "行业研究"
+          },
+          {
+            "career_list_id": 452,
+            "career_list_name": "资产管理"
+          },
+          {
+            "career_list_id": 453,
+            "career_list_name": "投资总监"
+          },
+          {
+            "career_list_id": 454,
+            "career_list_name": "投资VP"
+          },
+          {
+            "career_list_id": 455,
+            "career_list_name": "投资合伙人"
+          },
+          {
+            "career_list_id": 456,
+            "career_list_name": "融资"
+          },
+          {
+            "career_list_id": 457,
+            "career_list_name": "并购"
+          },
+          {
+            "career_list_id": 458,
+            "career_list_name": "投后管理"
+          },
+          {
+            "career_list_id": 459,
+            "career_list_name": "投资助理"
+          },
+          {
+            "career_list_id": 460,
+            "career_list_name": "其他投融资职位"
+          },
+          {
+            "career_list_id": 461,
+            "career_list_name": "投资顾问"
+          }
+        ]
+      },
+      {
+        "career_list_id": 60,
+        "career_list_name": "风控",
+        "sub": [
+          {
+            "career_list_id": 462,
+            "career_list_name": "风控"
+          },
+          {
+            "career_list_id": 463,
+            "career_list_name": "律师"
+          },
+          {
+            "career_list_id": 464,
+            "career_list_name": "资信评估"
+          },
+          {
+            "career_list_id": 465,
+            "career_list_name": "合规稽查"
+          }
+        ]
+      },
+      {
+        "career_list_id": 61,
+        "career_list_name": "税务审计",
+        "sub": [
+          {
+            "career_list_id": 466,
+            "career_list_name": "审计"
+          },
+          {
+            "career_list_id": 467,
+            "career_list_name": "法务"
+          },
+          {
+            "career_list_id": 468,
+            "career_list_name": "会计"
+          },
+          {
+            "career_list_id": 469,
+            "career_list_name": "清算"
+          }
+        ]
+      },
+      {
+        "career_list_id": 62,
+        "career_list_name": "银行",
+        "sub": [
+          {
+            "career_list_id": 470,
+            "career_list_name": "信用卡销售"
+          },
+          {
+            "career_list_id": 471,
+            "career_list_name": "分析师"
+          },
+          {
+            "career_list_id": 472,
+            "career_list_name": "柜员"
+          },
+          {
+            "career_list_id": 473,
+            "career_list_name": "商务渠道"
+          },
+          {
+            "career_list_id": 474,
+            "career_list_name": "大堂经理"
+          },
+          {
+            "career_list_id": 475,
+            "career_list_name": "理财顾问"
+          },
+          {
+            "career_list_id": 476,
+            "career_list_name": "客户经理"
+          },
+          {
+            "career_list_id": 477,
+            "career_list_name": "信贷管理"
+          },
+          {
+            "career_list_id": 478,
+            "career_list_name": "风控"
+          }
+        ]
+      },
+      {
+        "career_list_id": 63,
+        "career_list_name": "互联网金融",
+        "sub": [
+          {
+            "career_list_id": 479,
+            "career_list_name": "金融产品经理"
+          },
+          {
+            "career_list_id": 480,
+            "career_list_name": "风控"
+          },
+          {
+            "career_list_id": 481,
+            "career_list_name": "催收员"
+          },
+          {
+            "career_list_id": 482,
+            "career_list_name": "分析师"
+          },
+          {
+            "career_list_id": 483,
+            "career_list_name": "投资经理"
+          },
+          {
+            "career_list_id": 484,
+            "career_list_name": "交易员"
+          },
+          {
+            "career_list_id": 485,
+            "career_list_name": "理财顾问"
+          },
+          {
+            "career_list_id": 486,
+            "career_list_name": "合规稽查"
+          },
+          {
+            "career_list_id": 487,
+            "career_list_name": "审计"
+          },
+          {
+            "career_list_id": 488,
+            "career_list_name": "清算"
+          }
+        ]
+      },
+      {
+        "career_list_id": 64,
+        "career_list_name": "保险",
+        "sub": [
+          {
+            "career_list_id": 489,
+            "career_list_name": "保险业务"
+          },
+          {
+            "career_list_id": 490,
+            "career_list_name": "精算师"
+          },
+          {
+            "career_list_id": 491,
+            "career_list_name": "保险理赔"
+          }
+        ]
+      },
+      {
+        "career_list_id": 65,
+        "career_list_name": "其他金融职位",
+        "sub": [
+          {
+            "career_list_id": 492,
+            "career_list_name": "其他金融职位"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career_list_id": 66,
+    "career_list_name": "教育培训",
+    "sub": [
+      {
+        "career_list_id": 493,
+        "career_list_name": "教育产品研发",
+        "sub": [
+          {
+            "career_list_id": 533,
+            "career_list_name": "课程设计"
+          },
+          {
+            "career_list_id": 534,
+            "career_list_name": "课程编辑"
+          },
+          {
+            "career_list_id": 535,
+            "career_list_name": "教师"
+          },
+          {
+            "career_list_id": 536,
+            "career_list_name": "培训研究"
+          },
+          {
+            "career_list_id": 537,
+            "career_list_name": "培训师"
+          },
+          {
+            "career_list_id": 538,
+            "career_list_name": "培训策划"
+          },
+          {
+            "career_list_id": 539,
+            "career_list_name": "其他教育产品研发职位"
+          }
+        ]
+      },
+      {
+        "career_list_id": 494,
+        "career_list_name": "教育行政",
+        "sub": [
+          {
+            "career_list_id": 540,
+            "career_list_name": "校长"
+          },
+          {
+            "career_list_id": 541,
+            "career_list_name": "教务管理"
+          },
+          {
+            "career_list_id": 542,
+            "career_list_name": "教学管理"
+          },
+          {
+            "career_list_id": 543,
+            "career_list_name": "班主任/辅导员"
+          }
+        ]
+      },
+      {
+        "career_list_id": 495,
+        "career_list_name": "教师",
+        "sub": [
+          {
+            "career_list_id": 544,
+            "career_list_name": "教师"
+          },
+          {
+            "career_list_id": 545,
+            "career_list_name": "助教"
+          },
+          {
+            "career_list_id": 546,
+            "career_list_name": "高中教师"
+          },
+          {
+            "career_list_id": 547,
+            "career_list_name": "初中教师"
+          },
+          {
+            "career_list_id": 548,
+            "career_list_name": "小学教师"
+          },
+          {
+            "career_list_id": 549,
+            "career_list_name": "幼教"
+          },
+          {
+            "career_list_id": 550,
+            "career_list_name": "理科教师"
+          },
+          {
+            "career_list_id": 551,
+            "career_list_name": "文科教师"
+          },
+          {
+            "career_list_id": 552,
+            "career_list_name": "外语教师"
+          },
+          {
+            "career_list_id": 553,
+            "career_list_name": "音乐教师"
+          },
+          {
+            "career_list_id": 554,
+            "career_list_name": "美术教师"
+          },
+          {
+            "career_list_id": 555,
+            "career_list_name": "体育教师"
+          },
+          {
+            "career_list_id": 556,
+            "career_list_name": "就业老师"
+          }
+        ]
+      },
+      {
+        "career_list_id": 496,
+        "career_list_name": "IT培训",
+        "sub": [
+          {
+            "career_list_id": 557,
+            "career_list_name": "JAVA培训讲师"
+          },
+          {
+            "career_list_id": 558,
+            "career_list_name": "Android培训讲师"
+          },
+          {
+            "career_list_id": 559,
+            "career_list_name": "ios培训讲师"
+          },
+          {
+            "career_list_id": 560,
+            "career_list_name": "PHP培训讲师"
+          },
+          {
+            "career_list_id": 561,
+            "career_list_name": ".NET培训讲师"
+          },
+          {
+            "career_list_id": 562,
+            "career_list_name": "C++培训讲师"
+          },
+          {
+            "career_list_id": 563,
+            "career_list_name": "Unity"
+          },
+          {
+            "career_list_id": 564,
+            "career_list_name": "3D培训讲师"
+          },
+          {
+            "career_list_id": 565,
+            "career_list_name": "Web前端培训讲师"
+          },
+          {
+            "career_list_id": 566,
+            "career_list_name": "软件测试培训讲师"
+          },
+          {
+            "career_list_id": 567,
+            "career_list_name": "动漫培训讲师"
+          },
+          {
+            "career_list_id": 568,
+            "career_list_name": "UI设计培训讲师"
+          }
+        ]
+      },
+      {
+        "career_list_id": 497,
+        "career_list_name": "职业培训",
+        "sub": [
+          {
+            "career_list_id": 569,
+            "career_list_name": "财会培训讲师"
+          },
+          {
+            "career_list_id": 570,
+            "career_list_name": "HR培训讲师"
+          },
+          {
+            "career_list_id": 571,
+            "career_list_name": "培训师"
+          },
+          {
+            "career_list_id": 572,
+            "career_list_name": "拓展培训"
+          }
+        ]
+      },
+      {
+        "career_list_id": 498,
+        "career_list_name": "招生",
+        "sub": [
+          {
+            "career_list_id": 573,
+            "career_list_name": "课程顾问"
+          },
+          {
+            "career_list_id": 574,
+            "career_list_name": "招生顾问"
+          },
+          {
+            "career_list_id": 575,
+            "career_list_name": "留学顾问"
+          }
+        ]
+      },
+      {
+        "career_list_id": 499,
+        "career_list_name": "教练",
+        "sub": [
+          {
+            "career_list_id": 576,
+            "career_list_name": "舞蹈教练"
+          },
+          {
+            "career_list_id": 577,
+            "career_list_name": "瑜伽教练"
+          },
+          {
+            "career_list_id": 578,
+            "career_list_name": "瘦身顾问"
+          },
+          {
+            "career_list_id": 579,
+            "career_list_name": "游泳教练"
+          },
+          {
+            "career_list_id": 580,
+            "career_list_name": "健身教练"
+          },
+          {
+            "career_list_id": 581,
+            "career_list_name": "篮球/羽毛球教练"
+          },
+          {
+            "career_list_id": 582,
+            "career_list_name": "跆拳道教练"
+          }
+        ]
+      },
+      {
+        "career_list_id": 500,
+        "career_list_name": "其他教育培训职位",
+        "sub": [
+          {
+            "career_list_id": 583,
+            "career_list_name": "其他教育培训职位"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career_list_id": 67,
+    "career_list_name": "医疗健康",
+    "sub": [
+      {
+        "career_list_id": 501,
+        "career_list_name": "药店",
+        "sub": [
+          {
+            "career_list_id": 584,
+            "career_list_name": "店长"
+          },
+          {
+            "career_list_id": 585,
+            "career_list_name": "执业药师/驻店药师"
+          },
+          {
+            "career_list_id": 586,
+            "career_list_name": "店员/营业员"
+          }
+        ]
+      },
+      {
+        "career_list_id": 502,
+        "career_list_name": "医疗技术",
+        "sub": [
+          {
+            "career_list_id": 587,
+            "career_list_name": "医生助理"
+          },
+          {
+            "career_list_id": 588,
+            "career_list_name": "医学影像"
+          },
+          {
+            "career_list_id": 589,
+            "career_list_name": "B超医生"
+          },
+          {
+            "career_list_id": 590,
+            "career_list_name": "生物制药"
+          },
+          {
+            "career_list_id": 591,
+            "career_list_name": "药品注册"
+          },
+          {
+            "career_list_id": 592,
+            "career_list_name": "药品生产"
+          },
+          {
+            "career_list_id": 593,
+            "career_list_name": "临床研究"
+          },
+          {
+            "career_list_id": 594,
+            "career_list_name": "临床协调"
+          },
+          {
+            "career_list_id": 595,
+            "career_list_name": "临床数据分析"
+          },
+          {
+            "career_list_id": 596,
+            "career_list_name": "医疗器械注册"
+          },
+          {
+            "career_list_id": 597,
+            "career_list_name": "医疗器械生产/质量管理"
+          },
+          {
+            "career_list_id": 598,
+            "career_list_name": "医学编辑"
+          },
+          {
+            "career_list_id": 599,
+            "career_list_name": "药学编辑"
+          },
+          {
+            "career_list_id": 600,
+            "career_list_name": "医师"
+          },
+          {
+            "career_list_id": 601,
+            "career_list_name": "药剂师"
+          },
+          {
+            "career_list_id": 602,
+            "career_list_name": "医疗器械研究"
+          },
+          {
+            "career_list_id": 603,
+            "career_list_name": "医学总监"
+          },
+          {
+            "career_list_id": 604,
+            "career_list_name": "医药研发"
+          },
+          {
+            "career_list_id": 605,
+            "career_list_name": "验光师"
+          },
+          {
+            "career_list_id": 606,
+            "career_list_name": "放射科医师"
+          },
+          {
+            "career_list_id": 607,
+            "career_list_name": "检验科医师"
+          },
+          {
+            "career_list_id": 608,
+            "career_list_name": "其他医疗技术职位"
+          }
+        ]
+      },
+      {
+        "career_list_id": 503,
+        "career_list_name": "护士/护理",
+        "sub": [
+          {
+            "career_list_id": 609,
+            "career_list_name": "护士长"
+          },
+          {
+            "career_list_id": 610,
+            "career_list_name": "护士/护理"
+          }
+        ]
+      },
+      {
+        "career_list_id": 504,
+        "career_list_name": "医师/医生",
+        "sub": [
+          {
+            "career_list_id": 611,
+            "career_list_name": "医师"
+          },
+          {
+            "career_list_id": 612,
+            "career_list_name": "中医"
+          },
+          {
+            "career_list_id": 613,
+            "career_list_name": "心理医生"
+          },
+          {
+            "career_list_id": 614,
+            "career_list_name": "牙科医生"
+          },
+          {
+            "career_list_id": 615,
+            "career_list_name": "康复治疗师"
+          }
+        ]
+      },
+      {
+        "career_list_id": 505,
+        "career_list_name": "健康整形",
+        "sub": [
+          {
+            "career_list_id": 616,
+            "career_list_name": "营养师"
+          },
+          {
+            "career_list_id": 617,
+            "career_list_name": "整形师"
+          },
+          {
+            "career_list_id": 618,
+            "career_list_name": "理疗师"
+          },
+          {
+            "career_list_id": 619,
+            "career_list_name": "针灸推拿"
+          },
+          {
+            "career_list_id": 620,
+            "career_list_name": "美容师/顾问"
+          }
+        ]
+      },
+      {
+        "career_list_id": 506,
+        "career_list_name": "市场销售",
+        "sub": [
+          {
+            "career_list_id": 621,
+            "career_list_name": "医疗器械销售"
+          },
+          {
+            "career_list_id": 622,
+            "career_list_name": "医学总监"
+          },
+          {
+            "career_list_id": 623,
+            "career_list_name": "医药代表"
+          },
+          {
+            "career_list_id": 624,
+            "career_list_name": "导医"
+          },
+          {
+            "career_list_id": 625,
+            "career_list_name": "健康顾问"
+          },
+          {
+            "career_list_id": 626,
+            "career_list_name": "医美咨询"
+          }
+        ]
+      },
+      {
+        "career_list_id": 507,
+        "career_list_name": "健身",
+        "sub": [
+          {
+            "career_list_id": 627,
+            "career_list_name": "瑜伽教练"
+          },
+          {
+            "career_list_id": 628,
+            "career_list_name": "瘦身顾问"
+          },
+          {
+            "career_list_id": 629,
+            "career_list_name": "游泳教练"
+          },
+          {
+            "career_list_id": 630,
+            "career_list_name": "美体教练"
+          },
+          {
+            "career_list_id": 631,
+            "career_list_name": "舞蹈教练"
+          },
+          {
+            "career_list_id": 632,
+            "career_list_name": "健身教练"
+          }
+        ]
+      },
+      {
+        "career_list_id": 508,
+        "career_list_name": "其他医疗健康类职位",
+        "sub": [
+          {
+            "career_list_id": 633,
+            "career_list_name": "其他医疗健康类职位"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career_list_id": 68,
+    "career_list_name": "房地产/建筑",
+    "sub": [
+      {
+        "career_list_id": 509,
+        "career_list_name": "房地产规划开发",
+        "sub": [
+          {
+            "career_list_id": 634,
+            "career_list_name": "房产策划"
+          },
+          {
+            "career_list_id": 635,
+            "career_list_name": "地产项目管理"
+          },
+          {
+            "career_list_id": 636,
+            "career_list_name": "地产招投标"
+          }
+        ]
+      },
+      {
+        "career_list_id": 510,
+        "career_list_name": "设计装修与市政建设",
+        "sub": [
+          {
+            "career_list_id": 637,
+            "career_list_name": "高级建筑工程师"
+          },
+          {
+            "career_list_id": 638,
+            "career_list_name": "建筑工程师"
+          },
+          {
+            "career_list_id": 639,
+            "career_list_name": "建筑设计师"
+          },
+          {
+            "career_list_id": 640,
+            "career_list_name": "土木/土建/结构工程师"
+          },
+          {
+            "career_list_id": 641,
+            "career_list_name": "室内设计"
+          },
+          {
+            "career_list_id": 642,
+            "career_list_name": "园林设计"
+          },
+          {
+            "career_list_id": 643,
+            "career_list_name": "城市规划设计"
+          },
+          {
+            "career_list_id": 644,
+            "career_list_name": "工程监理"
+          },
+          {
+            "career_list_id": 645,
+            "career_list_name": "工程造价"
+          },
+          {
+            "career_list_id": 646,
+            "career_list_name": "预结算"
+          },
+          {
+            "career_list_id": 647,
+            "career_list_name": "工程资料管理"
+          },
+          {
+            "career_list_id": 648,
+            "career_list_name": "建筑施工现场管理"
+          }
+        ]
+      },
+      {
+        "career_list_id": 511,
+        "career_list_name": "房地产经纪",
+        "sub": [
+          {
+            "career_list_id": 649,
+            "career_list_name": "地产置业顾问"
+          },
+          {
+            "career_list_id": 650,
+            "career_list_name": "地产评估"
+          },
+          {
+            "career_list_id": 651,
+            "career_list_name": "地产中介"
+          }
+        ]
+      },
+      {
+        "career_list_id": 512,
+        "career_list_name": "物业管理",
+        "sub": [
+          {
+            "career_list_id": 652,
+            "career_list_name": "物业管理"
+          },
+          {
+            "career_list_id": 653,
+            "career_list_name": "物业租赁销售"
+          },
+          {
+            "career_list_id": 654,
+            "career_list_name": "物业招商管理"
+          }
+        ]
+      },
+      {
+        "career_list_id": 513,
+        "career_list_name": "高端房地产职位",
+        "sub": [
+          {
+            "career_list_id": 655,
+            "career_list_name": "地产项目总监"
+          },
+          {
+            "career_list_id": 656,
+            "career_list_name": "地产策划总监"
+          },
+          {
+            "career_list_id": 657,
+            "career_list_name": "地产招投标总监"
+          },
+          {
+            "career_list_id": 658,
+            "career_list_name": "物业总监"
+          },
+          {
+            "career_list_id": 659,
+            "career_list_name": "房地产销售总监"
+          }
+        ]
+      },
+      {
+        "career_list_id": 514,
+        "career_list_name": "其他房地产职位",
+        "sub": [
+          {
+            "career_list_id": 660,
+            "career_list_name": "其他房地产职位"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career_list_id": 69,
+    "career_list_name": "汽车",
+    "sub": [
+      {
+        "career_list_id": 515,
+        "career_list_name": "汽车设计与研发",
+        "sub": [
+          {
+            "career_list_id": 661,
+            "career_list_name": "汽车设计"
+          },
+          {
+            "career_list_id": 662,
+            "career_list_name": "车身设计"
+          },
+          {
+            "career_list_id": 663,
+            "career_list_name": "底盘设计"
+          },
+          {
+            "career_list_id": 664,
+            "career_list_name": "机械设计"
+          },
+          {
+            "career_list_id": 665,
+            "career_list_name": "动力系统设计"
+          },
+          {
+            "career_list_id": 666,
+            "career_list_name": "电子工程设计"
+          },
+          {
+            "career_list_id": 667,
+            "career_list_name": "零部件设计"
+          },
+          {
+            "career_list_id": 668,
+            "career_list_name": "汽车工程项目管理"
+          },
+          {
+            "career_list_id": 669,
+            "career_list_name": "内外饰设计工程师"
+          },
+          {
+            "career_list_id": 670,
+            "career_list_name": "质量工程师"
+          }
+        ]
+      },
+      {
+        "career_list_id": 516,
+        "career_list_name": "汽车销售与制造",
+        "sub": [
+          {
+            "career_list_id": 671,
+            "career_list_name": "汽车销售"
+          },
+          {
+            "career_list_id": 672,
+            "career_list_name": "汽车配件销售"
+          },
+          {
+            "career_list_id": 673,
+            "career_list_name": "汽车售后服务"
+          },
+          {
+            "career_list_id": 674,
+            "career_list_name": "汽车维修"
+          },
+          {
+            "career_list_id": 675,
+            "career_list_name": "汽车美容"
+          },
+          {
+            "career_list_id": 676,
+            "career_list_name": "汽车定损理赔"
+          },
+          {
+            "career_list_id": 677,
+            "career_list_name": "二手车评估师"
+          },
+          {
+            "career_list_id": 678,
+            "career_list_name": "4S店管理"
+          },
+          {
+            "career_list_id": 679,
+            "career_list_name": "汽车改装工程师"
+          },
+          {
+            "career_list_id": 680,
+            "career_list_name": "总装工程师"
+          },
+          {
+            "career_list_id": 681,
+            "career_list_name": "焊接工程师"
+          },
+          {
+            "career_list_id": 682,
+            "career_list_name": "冲压工程师"
+          }
+        ]
+      },
+      {
+        "career_list_id": 517,
+        "career_list_name": "其他汽车职位",
+        "sub": [
+          {
+            "career_list_id": 683,
+            "career_list_name": "其他汽车职位"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career_list_id": 70,
+    "career_list_name": "供应链/物流",
+    "sub": [
+      {
+        "career_list_id": 518,
+        "career_list_name": "物流",
+        "sub": [
+          {
+            "career_list_id": 684,
+            "career_list_name": "供应链专员"
+          },
+          {
+            "career_list_id": 685,
+            "career_list_name": "供应链经理"
+          },
+          {
+            "career_list_id": 686,
+            "career_list_name": "物流专员"
+          },
+          {
+            "career_list_id": 687,
+            "career_list_name": "物流经理"
+          },
+          {
+            "career_list_id": 688,
+            "career_list_name": "物流运营"
+          },
+          {
+            "career_list_id": 689,
+            "career_list_name": "物流跟单"
+          },
+          {
+            "career_list_id": 690,
+            "career_list_name": "贸易跟单"
+          },
+          {
+            "career_list_id": 691,
+            "career_list_name": "物仓调度"
+          },
+          {
+            "career_list_id": 692,
+            "career_list_name": "物仓项目"
+          },
+          {
+            "career_list_id": 693,
+            "career_list_name": "运输经理/主管"
+          },
+          {
+            "career_list_id": 694,
+            "career_list_name": "货运代理专员"
+          },
+          {
+            "career_list_id": 695,
+            "career_list_name": "货运代理经理"
+          },
+          {
+            "career_list_id": 696,
+            "career_list_name": "水/空/陆运操作"
+          },
+          {
+            "career_list_id": 697,
+            "career_list_name": "报关员"
+          },
+          {
+            "career_list_id": 698,
+            "career_list_name": "报检员"
+          },
+          {
+            "career_list_id": 699,
+            "career_list_name": "核销员"
+          },
+          {
+            "career_list_id": 700,
+            "career_list_name": "单证员"
+          }
+        ]
+      },
+      {
+        "career_list_id": 519,
+        "career_list_name": "仓储",
+        "sub": [
+          {
+            "career_list_id": 701,
+            "career_list_name": "仓储物料经理"
+          },
+          {
+            "career_list_id": 702,
+            "career_list_name": "仓储物料专员"
+          },
+          {
+            "career_list_id": 703,
+            "career_list_name": "仓储物料项目"
+          },
+          {
+            "career_list_id": 704,
+            "career_list_name": "仓储管理"
+          },
+          {
+            "career_list_id": 705,
+            "career_list_name": "仓库文员"
+          },
+          {
+            "career_list_id": 706,
+            "career_list_name": "配/理/拣/发货"
+          }
+        ]
+      },
+      {
+        "career_list_id": 520,
+        "career_list_name": "运输",
+        "sub": [
+          {
+            "career_list_id": 707,
+            "career_list_name": "货运司机"
+          },
+          {
+            "career_list_id": 708,
+            "career_list_name": "集装箱管理"
+          },
+          {
+            "career_list_id": 709,
+            "career_list_name": "配送"
+          },
+          {
+            "career_list_id": 710,
+            "career_list_name": "快递"
+          }
+        ]
+      },
+      {
+        "career_list_id": 521,
+        "career_list_name": "高端供应链职位",
+        "sub": [
+          {
+            "career_list_id": 711,
+            "career_list_name": "供应链总监"
+          },
+          {
+            "career_list_id": 712,
+            "career_list_name": "物流总监"
+          }
+        ]
+      },
+      {
+        "career_list_id": 522,
+        "career_list_name": "其他供应链职位",
+        "sub": [
+          {
+            "career_list_id": 713,
+            "career_list_name": "其他供应链职位"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career_list_id": 71,
+    "career_list_name": "采购/贸易",
+    "sub": [
+      {
+        "career_list_id": 523,
+        "career_list_name": "采购",
+        "sub": [
+          {
+            "career_list_id": 714,
+            "career_list_name": "采购总监"
+          },
+          {
+            "career_list_id": 715,
+            "career_list_name": "采购经理"
+          },
+          {
+            "career_list_id": 716,
+            "career_list_name": "采购专员"
+          },
+          {
+            "career_list_id": 717,
+            "career_list_name": "买手"
+          },
+          {
+            "career_list_id": 718,
+            "career_list_name": "采购工程师"
+          },
+          {
+            "career_list_id": 719,
+            "career_list_name": "采购主管"
+          },
+          {
+            "career_list_id": 720,
+            "career_list_name": "采购助理"
+          }
+        ]
+      },
+      {
+        "career_list_id": 524,
+        "career_list_name": "进出口贸易",
+        "sub": [
+          {
+            "career_list_id": 721,
+            "career_list_name": "外贸经理"
+          },
+          {
+            "career_list_id": 722,
+            "career_list_name": "外贸专员"
+          },
+          {
+            "career_list_id": 723,
+            "career_list_name": "外贸业务员"
+          },
+          {
+            "career_list_id": 724,
+            "career_list_name": "贸易跟单"
+          }
+        ]
+      },
+      {
+        "career_list_id": 525,
+        "career_list_name": "其他采购/贸易职位",
+        "sub": [
+          {
+            "career_list_id": 725,
+            "career_list_name": "其他采购/贸易类职位"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career_list_id": 72,
+    "career_list_name": "咨询/翻译/法律",
+    "sub": [
+      {
+        "career_list_id": 526,
+        "career_list_name": "咨询/调研",
+        "sub": [
+          {
+            "career_list_id": 726,
+            "career_list_name": "企业管理咨询"
+          },
+          {
+            "career_list_id": 727,
+            "career_list_name": "数据分析师"
+          },
+          {
+            "career_list_id": 728,
+            "career_list_name": "财务咨询顾问"
+          },
+          {
+            "career_list_id": 729,
+            "career_list_name": "IT咨询顾问"
+          },
+          {
+            "career_list_id": 730,
+            "career_list_name": "人力资源顾问"
+          },
+          {
+            "career_list_id": 731,
+            "career_list_name": "咨询项目管理"
+          },
+          {
+            "career_list_id": 732,
+            "career_list_name": "战略咨询"
+          },
+          {
+            "career_list_id": 733,
+            "career_list_name": "猎头顾问"
+          },
+          {
+            "career_list_id": 734,
+            "career_list_name": "市场调研"
+          },
+          {
+            "career_list_id": 735,
+            "career_list_name": "其他咨询顾问"
+          }
+        ]
+      },
+      {
+        "career_list_id": 527,
+        "career_list_name": "律师",
+        "sub": [
+          {
+            "career_list_id": 736,
+            "career_list_name": "事务所律师"
+          },
+          {
+            "career_list_id": 737,
+            "career_list_name": "公司法务"
+          }
+        ]
+      },
+      {
+        "career_list_id": 528,
+        "career_list_name": "翻译",
+        "sub": [
+          {
+            "career_list_id": 738,
+            "career_list_name": "英语翻译"
+          },
+          {
+            "career_list_id": 739,
+            "career_list_name": "日语翻译"
+          },
+          {
+            "career_list_id": 740,
+            "career_list_name": "韩语/朝鲜语翻译"
+          },
+          {
+            "career_list_id": 741,
+            "career_list_name": "法语翻译"
+          },
+          {
+            "career_list_id": 742,
+            "career_list_name": "德语翻译"
+          },
+          {
+            "career_list_id": 743,
+            "career_list_name": "俄语翻译"
+          },
+          {
+            "career_list_id": 744,
+            "career_list_name": "西班牙语翻译"
+          },
+          {
+            "career_list_id": 745,
+            "career_list_name": "其他语种翻译"
+          }
+        ]
+      },
+      {
+        "career_list_id": 529,
+        "career_list_name": "高端咨询类职位",
+        "sub": [
+          {
+            "career_list_id": 746,
+            "career_list_name": "咨询总监"
+          },
+          {
+            "career_list_id": 747,
+            "career_list_name": "咨询经理"
+          },
+          {
+            "career_list_id": 748,
+            "career_list_name": "高级翻译"
+          },
+          {
+            "career_list_id": 749,
+            "career_list_name": "同声传译"
+          }
+        ]
+      },
+      {
+        "career_list_id": 530,
+        "career_list_name": "其他咨询类职位",
+        "sub": [
+          {
+            "career_list_id": 750,
+            "career_list_name": "其他咨询/翻译类职位"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "career_list_id": 73,
+    "career_list_name": "实习生/管培生",
+    "sub": [
+      {
+        "career_list_id": 531,
+        "career_list_name": "实习生/培训生/储备干部",
+        "sub": [
+          {
+            "career_list_id": 751,
+            "career_list_name": "实习生"
+          },
+          {
+            "career_list_id": 752,
+            "career_list_name": "管理培训生"
+          },
+          {
+            "career_list_id": 753,
+            "career_list_name": "储备干部"
+          }
+        ]
+      },
+      {
+        "career_list_id": 532,
+        "career_list_name": "其他实习/培训/储备职位",
+        "sub": [
+          {
+            "career_list_id": 754,
+            "career_list_name": "其他实习/培训/储备职位"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+    <HorizontalScrollView
+        android:id="@+id/line_tab"
+        android:layout_width="match_parent"
+        android:scrollbars="none"
+        android:layout_height="wrap_content"
+        android:background="#eeeeee">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="38dp"
+            android:background="#eeeeee"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <RadioGroup
+                android:id="@+id/radiogroup_full"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:background="#eeeeee"
+                android:orientation="horizontal">
+
+                <RadioButton
+                    android:id="@+id/radiobutton0"
+                    style="@style/tab_text_style"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="5dp"
+                    android:checked="true"
+                    android:text="全部"/>
+
+                <RadioButton
+                    android:id="@+id/radiobutton1"
+                    style="@style/tab_text_style"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:text="电视剧"/>
+
+                <RadioButton
+                    android:id="@+id/radiobutton2"
+                    style="@style/tab_text_style"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:text="院线"/>
+
+                <RadioButton
+                    android:id="@+id/radiobutton3"
+                    style="@style/tab_text_style"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:text="网剧"/>
+
+                <RadioButton
+                    android:id="@+id/radiobutton5"
+                    style="@style/tab_text_style"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:text="网络电影"/>
+
+                <RadioButton
+                    android:id="@+id/radiobutton4"
+                    style="@style/tab_text_style"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="10dp"
+                    android:text="其他"/>
+
+            </RadioGroup>
+
+            <TextView
+                android:id="@+id/tv_search"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/search_bg_input"
+                android:paddingBottom="5dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:paddingTop="5dp"
+                android:text="组讯相关搜索"
+                android:textSize="@dimen/textsize_5"/>
+        </LinearLayout>
+    </HorizontalScrollView>
+
+    <View
+        android:id="@+id/view_line"
+        style="@style/bg_line_h"
+        android:layout_below="@+id/line_tab"/>
+
+    <com.movie.mling.movieapp.utils.widget.NoScrollViewPager
+        android:id="@+id/viewPager"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/view_line"
+        android:background="@color/white"/>
+
+
+    <TextView
+        android:id="@+id/add_movie"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/x_share_red_icon"
+        android:gravity="center"
+        android:text="发布\n组讯"
+        android:textColor="@color/white"
+        android:textSize="@dimen/textsize_5"/>
+
+
+
+    <TextView
+        android:id="@+id/add_location"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="120dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/x_share_blue_icon"
+        android:gravity="center"
+        android:text="附近"
+        android:textColor="@color/white"
+        android:textSize="@dimen/textsize_5"/>
+</RelativeLayout>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+
+    <zhouyou.flexbox.widget.TagFlowLayout
+        android:id="@+id/flow_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:alignContent="flex_start"
+        app:alignItems="center"
+        app:defaultDrawable="@drawable/bg_flow_unselect"
+        app:defaultTextColor="@color/colorAccent"
+        app:dividerDrawable="@drawable/bg_flow_divider"
+        app:flexDirection="row"
+        app:flexWrap="wrap"
+        app:justifyContent="flex_start"
+        app:maxSelectionCount="3"
+        app:mode="MULTI"
+        app:selectDrawable="@drawable/bg_flow_selected"
+        app:selectTextColor="@android:color/white"
+        app:showDivider="beginning|middle|end" />
+
+    <Button
+        android:id="@+id/btn_save"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/x_button_seleter_2"
+        android:text="确定"
+        android:textColor="@color/white"
+        android:textSize="@dimen/textsize_7" />
+</LinearLayout>

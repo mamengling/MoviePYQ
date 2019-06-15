@@ -1,0 +1,87 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="15dp">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/cornerbg_white_feedbackbottom"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <RadioGroup
+            android:id="@+id/radio_group"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@color/white"
+            android:orientation="vertical"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp">
+
+            <RadioButton
+                android:id="@+id/rb_lxrcw"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="联系人错误"
+                android:textColor="@color/home_tab_content"
+                android:textSize="@dimen/textsize_6" />
+
+            <RadioButton
+                android:id="@+id/rb_hgsjy"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="和公司已解约"
+                android:textColor="@color/home_tab_content"
+                android:textSize="@dimen/textsize_6" />
+
+            <RadioButton
+                android:id="@+id/rb_stdjjrgs"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="我是Ta的经纪人/公司"
+                android:textColor="@color/home_tab_content"
+                android:textSize="@dimen/textsize_6" />
+
+            <RadioButton
+                android:id="@+id/rb_wygxxx"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="我要更新信息"
+                android:textColor="@color/home_tab_content"
+                android:textSize="@dimen/textsize_6" />
+
+            <View style="@style/bg_line_h_w" />
+        </RadioGroup>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:gravity="center"
+            android:visibility="visible">
+
+            <TextView
+                android:id="@+id/left"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/x_button_seleter_1"
+                android:gravity="center"
+                android:paddingBottom="10dp"
+                android:paddingTop="10dp"
+                android:text="提交"
+                android:textColor="@color/white"
+                android:textSize="@dimen/textsize_6"
+                android:enabled="false"
+                android:visibility="visible" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+</FrameLayout>
