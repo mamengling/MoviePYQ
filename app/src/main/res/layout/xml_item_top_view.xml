@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:weightSum="4">
+
+            <TextView
+                android:id="@+id/tv_title_xingbie"
+                android:layout_width="0dp"
+                android:layout_height="22dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="性别"
+                android:textColor="@color/colorAccent"
+                android:textSize="@dimen/textsize_5"
+                android:visibility="visible" />
+
+            <RadioGroup
+                android:id="@+id/radiogroup_xingbie"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_weight="2"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <RadioButton
+                    android:id="@+id/rb_nan"
+                    android:layout_width="0dp"
+                    android:layout_height="25dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/x_radio_label"
+                    android:button="@null"
+                    android:checked="true"
+                    android:gravity="center"
+                    android:text="男"
+                    android:textColor="@drawable/xml_index_textcolor_4"
+                    android:textSize="@dimen/textsize_5"
+                    android:visibility="visible" />
+
+                <RadioButton
+                    android:id="@+id/rb_nv"
+                    android:layout_width="0dp"
+                    android:layout_height="25dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/x_radio_label"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:text="女"
+                    android:textColor="@drawable/xml_index_textcolor_4"
+                    android:textSize="@dimen/textsize_5"
+                    android:visibility="visible" />
+            </RadioGroup>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:weightSum="4">
+
+            <TextView
+                android:id="@+id/tv_title_nianling"
+                android:layout_width="0dp"
+                android:layout_height="22dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="年龄"
+                android:textColor="@color/colorAccent"
+                android:textSize="@dimen/textsize_5"
+                android:visibility="visible" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_weight="3"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/tv_xiao_nianling"
+                    android:layout_width="0dp"
+                    android:layout_height="25dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/rect_white_stroke"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:hint="全部"
+                    android:inputType="number"
+                    android:textColor="@color/home_text_color"
+                    android:textSize="@dimen/textsize_5"
+                    android:visibility="visible" />
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="22dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="岁"
+                    android:textColor="@color/home_tab_content"
+                    android:textSize="@dimen/textsize_5"
+                    android:visibility="invisible" />
+
+                <EditText
+                    android:id="@+id/tv_da_nianling"
+                    android:layout_width="0dp"
+                    android:layout_height="25dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/rect_white_stroke"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:hint="最大年龄"
+                    android:inputType="number"
+                    android:textColor="@color/home_tab_content"
+                    android:textSize="@dimen/textsize_5"
+                    android:visibility="invisible" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:weightSum="4">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="22dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="身高"
+                android:textColor="@color/colorAccent"
+                android:textSize="@dimen/textsize_5"
+                android:visibility="visible" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_weight="3"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/tv_di_shengao"
+                    android:layout_width="0dp"
+                    android:layout_height="25dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_weight="2"
+                    android:background="@drawable/rect_white_stroke"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:hint="全部"
+                    android:inputType="number"
+                    android:textColor="@color/home_text_color"
+                    android:textSize="@dimen/textsize_5"
+                    android:visibility="visible" />
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="22dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_weight="0.5"
+                    android:gravity="center"
+                    android:text="cm"
+                    android:textColor="@color/home_tab_content"
+                    android:textSize="@dimen/textsize_5"
+                    android:visibility="visible" />
+
+                <TextView
+                    android:id="@+id/tv_gao_shengao"
+                    android:layout_width="wrap_content"
+                    android:layout_height="25dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:background="@drawable/rect_blue_stroke"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:text="重置"
+                    android:inputType="number"
+                    android:paddingLeft="15dp"
+                    android:paddingRight="15dp"
+                    android:textColor="#ffffff"
+                    android:textSize="@dimen/textsize_5"
+                    android:visibility="visible" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:weightSum="4">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="22dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="体重"
+                android:textColor="@color/colorAccent"
+                android:textSize="@dimen/textsize_5"
+                android:visibility="visible" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_weight="3"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/tv_di_tizhong"
+                    android:layout_width="0dp"
+                    android:layout_height="25dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_weight="2"
+                    android:background="@drawable/rect_white_stroke"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:hint="全部"
+                    android:inputType="number"
+                    android:textColor="@color/home_text_color"
+                    android:textSize="@dimen/textsize_5"
+                    android:visibility="visible" />
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="22dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_weight="0.5"
+                    android:gravity="center"
+                    android:text="kg"
+                    android:textColor="@color/home_tab_content"
+                    android:textSize="@dimen/textsize_5"
+                    android:visibility="visible" />
+
+                <TextView
+                    android:id="@+id/tv_gao_tizhong"
+                    android:layout_width="wrap_content"
+                    android:layout_height="25dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:background="@drawable/rect_blue_stroke"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:text="重置"
+                    android:inputType="number"
+                    android:paddingLeft="15dp"
+                    android:paddingRight="15dp"
+                    android:textColor="#ffffff"
+                    android:textSize="@dimen/textsize_5"
+                    android:visibility="visible" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:weightSum="4">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="22dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="国籍"
+                android:textColor="@color/colorAccent"
+                android:textSize="@dimen/textsize_5"
+                android:visibility="visible" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_weight="3"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <CheckBox
+                    android:id="@+id/rb_guonei"
+                    android:layout_width="0dp"
+                    android:layout_height="25dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/x_radio_label"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:text="国内"
+                    android:textColor="@drawable/xml_index_textcolor_4"
+                    android:textSize="@dimen/textsize_5"
+                    android:visibility="visible" />
+
+                <CheckBox
+                    android:id="@+id/rb_gat"
+                    android:layout_width="0dp"
+                    android:layout_height="25dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/x_radio_label"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:text="港澳台"
+                    android:textColor="@drawable/xml_index_textcolor_4"
+                    android:textSize="@dimen/textsize_5"
+                    android:visibility="visible" />
+
+                <CheckBox
+                    android:id="@+id/rb_guowai"
+                    android:layout_width="0dp"
+                    android:layout_height="25dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/x_radio_label"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:text="国外"
+                    android:textColor="@drawable/xml_index_textcolor_4"
+                    android:textSize="@dimen/textsize_5"
+                    android:visibility="visible" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:weightSum="4">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="22dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="公司"
+                android:textColor="@color/colorAccent"
+                android:textSize="@dimen/textsize_5"
+                android:visibility="visible" />
+
+            <RadioGroup
+                android:id="@+id/radio_group_gongsi"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_weight="2"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <RadioButton
+                    android:id="@+id/rb_you"
+                    android:layout_width="0dp"
+                    android:layout_height="25dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/x_radio_label"
+                    android:button="@null"
+                    android:checked="true"
+                    android:gravity="center"
+                    android:text="有"
+                    android:textColor="@drawable/xml_index_textcolor_4"
+                    android:textSize="@dimen/textsize_5"
+                    android:visibility="visible" />
+
+                <RadioButton
+                    android:id="@+id/rb_wu"
+                    android:layout_width="0dp"
+                    android:layout_height="25dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/x_radio_label"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:text="无"
+                    android:textColor="@drawable/xml_index_textcolor_4"
+                    android:textSize="@dimen/textsize_5"
+                    android:visibility="visible" />
+            </RadioGroup>
+        </LinearLayout>
+
+        <com.movie.mling.movieapp.utils.widget.ItemListView
+            android:id="@+id/list_label"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:scrollbars="none" />
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

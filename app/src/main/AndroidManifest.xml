@@ -497,6 +497,12 @@
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden"/>
         <activity
+            android:name=".mould.ScreenActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden"/>
+        <activity
             android:name=".mould.SearchActorActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/app_name"

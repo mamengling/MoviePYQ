@@ -14,6 +14,7 @@ import com.movie.mling.movieapp.mould.ChangeLabelActivity;
 import com.movie.mling.movieapp.mould.LoginActivity;
 import com.movie.mling.movieapp.mould.NoticeMessageActivity;
 import com.movie.mling.movieapp.mould.RequestMessageActivity;
+import com.movie.mling.movieapp.mould.ScreenActivity;
 import com.movie.mling.movieapp.mould.WebviewActivity;
 import com.movie.mling.movieapp.utils.common.AppMethod;
 import com.movie.mling.movieapp.utils.common.Constants;
@@ -154,7 +155,7 @@ public class YanyuanFragment extends BaseFragment implements View.OnClickListene
                 ActivityAnim.intentActivity(getActivity(), WebviewActivity.class, mapAdd);
                 break;
             case R.id.tv_search_user:
-                ActivityAnim.intentActivity(getActivity(), ChangeLabelActivity.class, null);
+                ActivityAnim.intentActivity(getActivity(), ScreenActivity.class, null);
                 break;
         }
     }

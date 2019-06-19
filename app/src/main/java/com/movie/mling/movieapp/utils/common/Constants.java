@@ -61,4 +61,5 @@ public class Constants {
     public static final String APP_USER_SERVICE_NOT_SAVE = "service/noteSave";//通告标记已跑接口
     public static final String APP_USER_SERVICE_NOT = "service/note";//通告标记已跑接口
     public static final String APP_USER_SERVICE_NOT_DELETE = "service/noteDel";//通告标记已跑接口
+    public static final String APP_USER_SERVICE_SEARCH_STARCATE = "service/searchStarCate";//通告标记已跑接口
 }
